@@ -1,0 +1,30 @@
+{
+  "measured": 1064,
+  "missing": 0,
+  "noLicense": 0,
+  "byLicense": {
+    "not identifiable by github": 220,
+    "AGPL-3.0": 71,
+    "not specified": 27,
+    "Apache-2.0": 305,
+    "MIT": 185,
+    "BSD-3-Clause": 55,
+    "GPL-3.0": 63,
+    "MPL-2.0": 18,
+    "GPL-2.0": 36,
+    "repo not found": 32,
+    "Unlicense": 1,
+    "LGPL-3.0": 13,
+    "CC-BY-4.0": 2,
+    "LGPL-2.1": 11,
+    "CC0-1.0": 2,
+    "BSD-2-Clause": 11,
+    "ISC": 2,
+    "PostgreSQL": 1,
+    "EPL-2.0": 4,
+    "EUPL-1.2": 2,
+    "OSL-3.0": 1,
+    "EPL-1.0": 1,
+    "CC-BY-SA-4.0": 1
+  }
+}

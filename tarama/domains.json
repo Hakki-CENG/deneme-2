@@ -1,0 +1,745 @@
+[
+ {
+  "code": "A",
+  "name": "Genel zekâ / LLM / model çalışma altyapısı",
+  "repos": [
+   "huggingface/transformers",
+   "vllm-project/vllm",
+   "ggml-org/llama.cpp",
+   "ollama/ollama",
+   "sgl-project/sglang",
+   "ml-explore/mlx"
+  ],
+  "measured": [
+   {
+    "repo": "huggingface/transformers",
+    "license": "Apache-2.0",
+    "lastCommit": "today",
+    "language": "99.9%",
+    "stars": "168k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "99.9%"
+   },
+   {
+    "repo": "vllm-project/vllm",
+    "license": "Apache-2.0",
+    "lastCommit": "today",
+    "language": "85.4%",
+    "stars": "94k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "85.4%"
+   },
+   {
+    "repo": "ggml-org/llama.cpp",
+    "license": "MIT",
+    "lastCommit": "today",
+    "language": "56.1%",
+    "stars": "132k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "c++",
+    "languageShare": "56.1%"
+   },
+   {
+    "repo": "ollama/ollama",
+    "license": "MIT",
+    "lastCommit": "today",
+    "language": "71.6%",
+    "stars": "184k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "go",
+    "languageShare": "71.6%"
+   },
+   {
+    "repo": "sgl-project/sglang",
+    "license": "Apache-2.0",
+    "lastCommit": "today",
+    "language": "83.4%",
+    "stars": "37k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "83.4%"
+   },
+   {
+    "repo": "ml-explore/mlx",
+    "license": "MIT",
+    "lastCommit": "today",
+    "language": "63.2%",
+    "stars": "29k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "c++",
+    "languageShare": "63.2%"
+   }
+  ]
+ },
+ {
+  "code": "B",
+  "name": "Agent runtime, workflow ve multi-agent coordination",
+  "repos": [
+   "langchain-ai/langgraph",
+   "pydantic/pydantic-ai",
+   "microsoft/agent-framework",
+   "deepset-ai/haystack",
+   "crewAIInc/crewAI",
+   "temporalio/temporal"
+  ],
+  "measured": [
+   {
+    "repo": "langchain-ai/langgraph",
+    "license": "MIT",
+    "lastCommit": "today",
+    "language": "99.6%",
+    "stars": "44k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "99.6%"
+   },
+   {
+    "repo": "pydantic/pydantic-ai",
+    "license": "MIT",
+    "lastCommit": "today",
+    "language": "98.8%",
+    "stars": "21k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "98.8%"
+   },
+   {
+    "repo": "microsoft/agent-framework",
+    "license": "MIT",
+    "lastCommit": "today",
+    "language": "59.0%",
+    "stars": "14k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "59.0%"
+   },
+   {
+    "repo": "deepset-ai/haystack",
+    "license": "Apache-2.0",
+    "lastCommit": "today",
+    "language": "98.5%",
+    "stars": "27k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "98.5%"
+   },
+   {
+    "repo": "crewAIInc/crewAI",
+    "license": "MIT",
+    "lastCommit": "today",
+    "language": "99.4%",
+    "stars": "60k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "99.4%"
+   },
+   {
+    "repo": "temporalio/temporal",
+    "license": "MIT",
+    "lastCommit": "yesterday",
+    "language": "99.5%",
+    "stars": "24k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "go",
+    "languageShare": "99.5%"
+   }
+  ]
+ },
+ {
+  "code": "C",
+  "name": "Kodlama, yazılım mühendisliği ve DevOps",
+  "repos": [
+   "anomalyco/opencode",
+   "All-Hands-AI/OpenHands",
+   "Aider-AI/aider",
+   "SWE-agent/SWE-agent",
+   "cline/cline",
+   "continuedev/continue",
+   "block/goose"
+  ],
+  "measured": [
+   {
+    "repo": "anomalyco/opencode",
+    "license": "MIT",
+    "lastCommit": "today",
+    "language": "81.4%",
+    "stars": "217k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "typescript",
+    "languageShare": "81.4%"
+   },
+   {
+    "repo": "All-Hands-AI/OpenHands",
+    "license": "MIT",
+    "lastCommit": "today",
+    "language": "91.9%",
+    "stars": "91k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "typescript",
+    "languageShare": "91.9%"
+   },
+   {
+    "repo": "Aider-AI/aider",
+    "license": "Apache-2.0",
+    "lastCommit": "may",
+    "language": "80.1%",
+    "stars": "50k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "80.1%"
+   },
+   {
+    "repo": "SWE-agent/SWE-agent",
+    "license": "MIT",
+    "lastCommit": "july",
+    "language": "94.9%",
+    "stars": "21k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "94.9%"
+   },
+   {
+    "repo": "cline/cline",
+    "license": "Apache-2.0",
+    "lastCommit": "today",
+    "language": "97.9%",
+    "stars": "71k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "typescript",
+    "languageShare": "97.9%"
+   },
+   {
+    "repo": "continuedev/continue",
+    "license": "Apache-2.0",
+    "lastCommit": "july",
+    "language": "83.6%",
+    "stars": "36k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "typescript",
+    "languageShare": "83.6%"
+   },
+   {
+    "repo": "block/goose",
+    "license": "Apache-2.0",
+    "lastCommit": "today",
+    "language": "71.7%",
+    "stars": "55k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "rust",
+    "languageShare": "71.7%"
+   }
+  ]
+ },
+ {
+  "code": "D",
+  "name": "Web arama / araştırma / haber / kaynak toplama",
+  "repos": [
+   "searxng/searxng",
+   "unclecode/crawl4ai",
+   "microsoft/playwright",
+   "scrapy/scrapy",
+   "adbar/trafilatura"
+  ],
+  "measured": [
+   {
+    "repo": "searxng/searxng",
+    "license": "AGPL-3.0",
+    "lastCommit": "october",
+    "language": "81.9%",
+    "stars": "39k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "81.9%"
+   },
+   {
+    "repo": "unclecode/crawl4ai",
+    "license": "Apache-2.0",
+    "lastCommit": "last thursday",
+    "language": "98.8%",
+    "stars": "86k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "98.8%"
+   },
+   {
+    "repo": "microsoft/playwright",
+    "license": "Apache-2.0",
+    "lastCommit": "today",
+    "language": "91.9%",
+    "stars": "98k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "typescript",
+    "languageShare": "91.9%"
+   },
+   {
+    "repo": "scrapy/scrapy",
+    "license": "BSD-3-Clause",
+    "lastCommit": "today",
+    "language": "98.0%",
+    "stars": "65k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "98.0%"
+   },
+   {
+    "repo": "adbar/trafilatura",
+    "license": "Apache-2.0",
+    "lastCommit": "october",
+    "language": "100.0%",
+    "stars": "7k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "100.0%"
+   }
+  ]
+ },
+ {
+  "code": "E",
+  "name": "Browser / desktop / mobile / OS actions",
+  "repos": [
+   "browser-use/browser-use",
+   "ServiceNow/BrowserGym",
+   "OSWorld/OSWorld"
+  ],
+  "measured": [
+   {
+    "repo": "browser-use/browser-use",
+    "license": "MIT",
+    "lastCommit": "last saturday",
+    "language": "99.2%",
+    "stars": "118k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "99.2%"
+   },
+   {
+    "repo": "ServiceNow/BrowserGym",
+    "license": "not identifiable by github",
+    "lastCommit": "october",
+    "language": "88.8%",
+    "stars": "1.4k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "88.8%"
+   },
+   {
+    "repo": "OSWorld/OSWorld",
+    "license": "repo not found",
+    "lastCommit": "repo not found",
+    "language": "repo not found",
+    "stars": "repo not found",
+    "fetchedAt": "2026-10-19",
+    "languageName": "language",
+    "languageShare": "repo not found"
+   }
+  ]
+ },
+ {
+  "code": "F",
+  "name": "OCR / PDF / contracts / documents / tables",
+  "repos": [
+   "docling-project/docling",
+   "PaddlePaddle/PaddleOCR",
+   "tesseract-ocr/tesseract",
+   "opendatalab/MinerU",
+   "VikParuchuri/marker"
+  ],
+  "measured": [
+   {
+    "repo": "docling-project/docling",
+    "license": "MIT",
+    "lastCommit": "today",
+    "language": "99.7%",
+    "stars": "69k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "99.7%"
+   },
+   {
+    "repo": "PaddlePaddle/PaddleOCR",
+    "license": "Apache-2.0",
+    "lastCommit": "september",
+    "language": "68.2%",
+    "stars": "91k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "68.2%"
+   },
+   {
+    "repo": "tesseract-ocr/tesseract",
+    "license": "Apache-2.0",
+    "lastCommit": "today",
+    "language": "95.5%",
+    "stars": "77k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "c++",
+    "languageShare": "95.5%"
+   },
+   {
+    "repo": "opendatalab/MinerU",
+    "license": "not identifiable by github",
+    "lastCommit": "october",
+    "language": "98.4%",
+    "stars": "82k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "98.4%"
+   },
+   {
+    "repo": "VikParuchuri/marker",
+    "license": "Apache-2.0",
+    "lastCommit": "last wednesday",
+    "language": "99.5%",
+    "stars": "41k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "99.5%"
+   }
+  ]
+ },
+ {
+  "code": "G",
+  "name": "Knowledge base / RAG / vector / graph retrieval",
+  "repos": [
+   "qdrant/qdrant",
+   "pgvector/pgvector",
+   "deepset-ai/haystack",
+   "run-llama/llama_index",
+   "getzep/graphiti",
+   "letta-ai/letta"
+  ],
+  "measured": [
+   {
+    "repo": "qdrant/qdrant",
+    "license": "Apache-2.0",
+    "lastCommit": "october",
+    "language": "89.3%",
+    "stars": "35k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "rust",
+    "languageShare": "89.3%"
+   },
+   {
+    "repo": "pgvector/pgvector",
+    "license": "not identifiable by github",
+    "lastCommit": "october",
+    "language": "77.1%",
+    "stars": "23k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "c",
+    "languageShare": "77.1%"
+   },
+   {
+    "repo": "deepset-ai/haystack",
+    "license": "Apache-2.0",
+    "lastCommit": "today",
+    "language": "98.5%",
+    "stars": "27k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "98.5%"
+   },
+   {
+    "repo": "run-llama/llama_index",
+    "license": "MIT",
+    "lastCommit": "last wednesday",
+    "language": "72.6%",
+    "stars": "53k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "72.6%"
+   },
+   {
+    "repo": "getzep/graphiti",
+    "license": "Apache-2.0",
+    "lastCommit": "today",
+    "language": "99.4%",
+    "stars": "32k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "99.4%"
+   },
+   {
+    "repo": "letta-ai/letta",
+    "license": "Apache-2.0",
+    "lastCommit": "yesterday",
+    "language": "none",
+    "stars": "25k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "language",
+    "languageShare": "none"
+   }
+  ]
+ },
+ {
+  "code": "H",
+  "name": "Görsel üretim / düzenleme / vision",
+  "repos": [
+   "Comfy-Org/ComfyUI",
+   "huggingface/diffusers",
+   "invoke-ai/InvokeAI"
+  ],
+  "measured": [
+   {
+    "repo": "Comfy-Org/ComfyUI",
+    "license": "GPL-3.0",
+    "lastCommit": "yesterday",
+    "language": "99.7%",
+    "stars": "139k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "99.7%"
+   },
+   {
+    "repo": "huggingface/diffusers",
+    "license": "Apache-2.0",
+    "lastCommit": "today",
+    "language": "100.0%",
+    "stars": "35k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "100.0%"
+   },
+   {
+    "repo": "invoke-ai/InvokeAI",
+    "license": "Apache-2.0",
+    "lastCommit": "today",
+    "language": "58.1%",
+    "stars": "29k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "typescript",
+    "languageShare": "58.1%"
+   }
+  ]
+ },
+ {
+  "code": "I",
+  "name": "Video / motion / animation",
+  "repos": [
+   "Wan-Video/Wan2.2"
+  ],
+  "measured": [
+   {
+    "repo": "Wan-Video/Wan2.2",
+    "license": "Apache-2.0",
+    "lastCommit": "september",
+    "language": "99.2%",
+    "stars": "18k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "99.2%"
+   }
+  ]
+ },
+ {
+  "code": "J",
+  "name": "Ses, konuşma, müzik ve meeting intelligence",
+  "repos": [
+   "openai/whisper",
+   "SYSTRAN/faster-whisper",
+   "rhasspy/piper"
+  ],
+  "measured": [
+   {
+    "repo": "openai/whisper",
+    "license": "MIT",
+    "lastCommit": "august",
+    "language": "100.0%",
+    "stars": "111k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "100.0%"
+   },
+   {
+    "repo": "SYSTRAN/faster-whisper",
+    "license": "MIT",
+    "lastCommit": "last friday",
+    "language": "99.9%",
+    "stars": "26k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "python",
+    "languageShare": "99.9%"
+   },
+   {
+    "repo": "rhasspy/piper",
+    "license": "MIT",
+    "lastCommit": "august 2025",
+    "language": "72.8%",
+    "stars": "11k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "c++",
+    "languageShare": "72.8%"
+   }
+  ]
+ },
+ {
+  "code": "K",
+  "name": "Çeviri, dil ve lokalizasyon",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "L",
+  "name": "Ofis / üretkenlik / e-posta / takvim / dosyalar",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "M",
+  "name": "SQL / data engineering / analytics / BI",
+  "repos": [
+   "duckdb/duckdb",
+   "pola-rs/polars"
+  ],
+  "measured": [
+   {
+    "repo": "duckdb/duckdb",
+    "license": "MIT",
+    "lastCommit": "today",
+    "language": "92.3%",
+    "stars": "42k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "c++",
+    "languageShare": "92.3%"
+   },
+   {
+    "repo": "pola-rs/polars",
+    "license": "MIT",
+    "lastCommit": "today",
+    "language": "62.2%",
+    "stars": "40k",
+    "fetchedAt": "2026-10-19",
+    "languageName": "rust",
+    "languageShare": "62.2%"
+   }
+  ]
+ },
+ {
+  "code": "N",
+  "name": "Matematik / bilimsel hesaplama / formal methods",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "O",
+  "name": "Bilimsel araştırma / makale / literatür",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "P",
+  "name": "Biyoloji / sağlık / kimya / moleküler bilim",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "Q",
+  "name": "Hukuk / uyum / mevzuat / sözleşme",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "R",
+  "name": "Finans / muhasebe / ekonomi / piyasalar",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "S",
+  "name": "Tasarım / CAD / 3D / mühendislik / mimarlık",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "T",
+  "name": "Oyun geliştirme / interaktif deneyim",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "U",
+  "name": "Robotics / IoT / hardware / physical environment",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "V",
+  "name": "Siber güvenlik / IT operations / SRE",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "W",
+  "name": "Eğitim / kişisel öğrenme / tutoring",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "X",
+  "name": "İşletme / CRM / satış / marketing / e-ticaret",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "Y",
+  "name": "İletişim / sosyal / topluluk yönetimi",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "Z",
+  "name": "Harita / seyahat / lojistik / konum",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "AA",
+  "name": "Enerji / çevre / hava / iklim / tarım",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "AB",
+  "name": "Sunum / diyagram / teknik iletişim",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "AC",
+  "name": "Dosya/backup/archive/data lifecycle",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "AD",
+  "name": "Accessibility / inclusion / assistive computing",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "AE",
+  "name": "API/connector/SDK/plugin ecosystem",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "AF",
+  "name": "Veri güveni / provenance / knowledge governance",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "AG",
+  "name": "Internal AI development / fine-tuning / model research",
+  "repos": [],
+  "measured": []
+ },
+ {
+  "code": "AH",
+  "name": "Yeni nişler ve bilinmeyen kabiliyetler",
+  "repos": [],
+  "measured": []
+ }
+]

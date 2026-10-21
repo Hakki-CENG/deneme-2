@@ -1,0 +1,60 @@
+[2026-10-19 15:28:11.509] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 15:28:11.825] [FETCH]... ↓ https://example.com                                                                                  | ✓ | ⏱: 0.29s 
+[2026-10-19 15:28:11.829] [SCRAPE].. ◆ https://example.com                                                                                  | ✓ | ⏱: 0.00s 
+[2026-10-19 15:28:11.832] [COMPLETE] ● https://example.com                                                                                  | ✓ | ⏱: 0.30s 
+[2026-10-19 15:29:23.408] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 15:29:23.740] [FETCH]... ↓ https://example.com                                                                                  | ✓ | ⏱: 0.33s 
+[2026-10-19 15:29:23.744] [SCRAPE].. ◆ https://example.com                                                                                  | ✓ | ⏱: 0.00s 
+[2026-10-19 15:29:23.748] [COMPLETE] ● https://example.com                                                                                  | ✓ | ⏱: 0.34s 
+[2026-10-19 15:53:30.325] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 15:53:30.742] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 0.42s 
+[2026-10-19 15:53:30.745] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.00s 
+[2026-10-19 15:53:30.748] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 0.42s 
+[2026-10-19 15:57:52.130] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 15:57:53.011] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 0.88s 
+[2026-10-19 15:57:53.015] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.00s 
+[2026-10-19 15:57:53.018] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 0.89s 
+[2026-10-19 16:40:23.982] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 16:40:24.946] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 0.96s 
+[2026-10-19 16:40:24.950] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.00s 
+[2026-10-19 16:40:24.953] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 0.97s 
+[2026-10-19 17:01:51.446] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 17:01:52.600] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 1.15s 
+[2026-10-19 17:01:52.605] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.00s 
+[2026-10-19 17:01:52.608] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 1.16s 
+[2026-10-19 17:50:02.636] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 17:50:03.034] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 0.40s 
+[2026-10-19 17:50:03.039] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.00s 
+[2026-10-19 17:50:03.043] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 0.41s 
+[2026-10-19 17:52:09.542] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 17:52:09.848] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 0.30s 
+[2026-10-19 17:52:09.851] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.00s 
+[2026-10-19 17:52:09.854] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 0.31s 
+[2026-10-19 17:56:11.627] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 17:56:11.958] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 0.33s 
+[2026-10-19 17:56:11.961] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.00s 
+[2026-10-19 17:56:11.965] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 0.33s 
+[2026-10-19 18:16:34.454] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 18:16:35.238] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 0.78s 
+[2026-10-19 18:16:35.260] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.02s 
+[2026-10-19 18:16:35.263] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 0.81s 
+[2026-10-19 18:45:08.420] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 18:45:08.821] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 0.40s 
+[2026-10-19 18:45:08.829] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.01s 
+[2026-10-19 18:45:08.832] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 0.41s 
+[2026-10-19 18:54:36.897] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 18:54:37.365] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 0.46s 
+[2026-10-19 18:54:37.369] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.00s 
+[2026-10-19 18:54:37.372] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 0.47s 
+[2026-10-19 19:04:15.349] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 19:04:16.158] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 0.81s 
+[2026-10-19 19:04:16.167] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.01s 
+[2026-10-19 19:04:16.170] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 0.82s 
+[2026-10-19 19:32:54.259] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 19:32:55.166] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 0.90s 
+[2026-10-19 19:32:55.174] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.01s 
+[2026-10-19 19:32:55.177] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 0.92s 
+[2026-10-19 19:40:52.963] [INIT].... → Crawl4AI 0.9.5 
+[2026-10-19 19:40:53.814] [FETCH]... ↓ https://example.com/                                                                                 | ✓ | ⏱: 0.85s 
+[2026-10-19 19:40:53.818] [SCRAPE].. ◆ https://example.com/                                                                                 | ✓ | ⏱: 0.00s 
+[2026-10-19 19:40:53.822] [COMPLETE] ● https://example.com/                                                                                 | ✓ | ⏱: 0.86s 

@@ -1,0 +1,1065 @@
+repo,license,language,languageShare,stars,lastCommit,staleness,copyleft,licenseUnclear
+"AccessKit/accesskit","BSD-3-Clause","rust","98.3%","1.5k","yesterday","this-week",no,no
+"198808xc/Pangu-Weather","not specified","python","100.0%","1.4k","january 2024","2024",no,yes
+"AFLplusplus/AFLplusplus","AGPL-3.0","c","56.9%","6.8k","today","this-week",yes,no
+"4ian/GDevelop","not identifiable by github","javascript","65.5%","28k","today","this-week",no,yes
+"AcademySoftwareFoundation/OpenTimelineIO","Apache-2.0","c++","51.9%","2k","last saturday","this-week",no,no
+"567-labs/instructor","MIT","python","99.9%","14k","october","this-year",no,no
+"AgOpenGPS-Official/AgOpenGPS","Apache-2.0","c#","100.0%","957","yesterday","this-week",no,no
+"Acly/krita-ai-diffusion","GPL-3.0","python","99.6%","11k","october","this-year",yes,no
+"ActivityWatch/activitywatch","MPL-2.0","python","96.0%","19k","yesterday","this-week",yes,no
+"Aider-AI/aider","Apache-2.0","python","80.1%","50k","may","this-year",no,no
+"Aegisub/Aegisub","not identifiable by github","c++","60.6%","3.4k","october 2019","2023-or-older",no,yes
+"Anjok07/ultimatevocalremovergui","MIT","python","67.6%","27k","october","this-year",no,no
+"AppFlowy-IO/AppFlowy","AGPL-3.0","dart","73.6%","78k","june","this-year",yes,no
+"AnswerDotAI/RAGatouille","Apache-2.0","python","100.0%","4k","may 2025","2025",no,no
+"AlloyTools/org.alloytools.alloy","not identifiable by github","java","90.1%","876","june","this-year",no,yes
+"All-Hands-AI/OpenHands","MIT","typescript","91.9%","91k","today","this-week",no,no
+"AprilRobotics/apriltag","not identifiable by github","c","99.2%","2.6k","august","this-year",no,yes
+"ArduPilot/ardupilot","GPL-3.0","c++","57.7%","16k","last saturday","this-week",yes,no
+"ArchiveBox/ArchiveBox","MIT","python","70.1%","29k","yesterday","this-week",no,no
+"Audio-AGI/AudioSep","MIT","python","99.2%","1.9k","november 2024","2024",no,no
+"Ardour/ardour","not identifiable by github","c++","54.6%","5.4k","today","this-week",no,yes
+"AutoHotkey/AutoHotkey","GPL-2.0","c++","72.1%","13k","yesterday","this-week",yes,no
+"Arize-ai/phoenix","not identifiable by github","python","48.9%","12k","last saturday","this-week",no,yes
+"BRL-CAD/brlcad","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"BurntSushi/ripgrep","Unlicense","rust","95.0%","69k","august","this-year",no,no
+"Azure/PyRIT","MIT","language","none","120","march","this-year",no,no
+"CellProfiler/CellProfiler","not identifiable by github","python","99.2%","1.1k","last friday","this-week",no,yes
+"ClaimBuster/ClaimBuster","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"BYVoid/OpenCC","Apache-2.0","c++","70.3%","10k","yesterday","this-week",no,no
+"CMU-Perceptual-Computing-Lab/openpose","not identifiable by github","c++","88.9%","35k","august 2024","2024",no,yes
+"ClickHouse/ClickHouse","Apache-2.0","c++","67.9%","50k","today","this-week",no,no
+"CloudCompare/CloudCompare","not identifiable by github","c++","96.1%","4.8k","last saturday","this-week",no,yes
+"CompVis/stable-diffusion","not identifiable by github","jupyter notebook","88.9%","74k","november 2022","2023-or-older",no,yes
+"Comfy-Org/ComfyUI","GPL-3.0","python","99.7%","139k","yesterday","this-week",yes,no
+"CodeIntelligenceTesting/jazzer.js","Apache-2.0","typescript","63.6%","362","june","this-year",no,no
+"ComplianceAsCode/content","not identifiable by github","shell","57.4%","2.8k","today","this-week",no,yes
+"ComuneFI/CMDBuild","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"CrossRef/rest-api-doc","not identifiable by github","language","none","804","september 2024","2024",no,yes
+"Dolibarr/dolibarr","GPL-3.0","php","92.4%","7.7k","today","this-week",yes,no
+"DSpace/DSpace","BSD-3-Clause","java","97.6%","1.1k","last thursday","this-week",no,no
+"DoubleML/doubleml-for-py","BSD-3-Clause","python","100.0%","794","september","this-year",no,no
+"ERGO-Code/HiGHS","MIT","c++","83.6%","1.9k","august","this-year",no,no
+"Dhondtguido/CalculiX","GPL-2.0","fortran","74.8%","223","last friday","this-week",yes,no
+"FEniCS/dolfinx","LGPL-3.0","c++","56.3%","1.2k","today","this-week",yes,no
+"ElmerCSC/elmerfem","not identifiable by github","fortran","73.4%","1.7k","today","this-week",no,yes
+"FDA/open.fda.gov","MIT","typescript","81.1%","178","last tuesday","this-week",no,no
+"EleutherAI/lm-evaluation-harness","MIT","python","99.5%","14k","september","this-year",no,no
+"FRRouting/frr","not identifiable by github","c","64.4%","4.3k","today","this-week",no,yes
+"FiloSottile/age","BSD-3-Clause","go","100.0%","24k","august","this-year",no,no
+"FlagOpen/FlagEmbedding","MIT","python","60.2%","12k","august","this-year",no,no
+"FFmpeg/FFmpeg","not identifiable by github","c","88.9%","65k","yesterday","this-week",no,yes
+"FlightGear/flightgear","GPL-2.0","c++","92.6%","816","february 2025","2025",yes,no
+"FlowiseAI/Flowise","not identifiable by github","typescript","61.8%","56k","august","this-year",no,yes
+"FreeRTOS/FreeRTOS","MIT","c","95.5%","7.9k","august","this-year",no,no
+"FoodOntology/foodon","CC-BY-4.0","python","90.0%","244","september","this-year",no,no
+"FreshRSS/FreshRSS","AGPL-3.0","php","81.4%","16k","today","this-week",yes,no
+"Future-House/paper-qa","Apache-2.0","python","86.2%","9.4k","august","this-year",no,no
+"FreeCAD/FreeCAD-documentation","CC0-1.0","python","100.0%","105","january 2025","2025",no,no
+"FreeCAD/FreeCAD","LGPL-2.1","c++","52.7%","35k","today","this-week",yes,no
+"GIScience/openrouteservice","GPL-3.0","java","99.3%","2k","today","this-week",yes,no
+"GNOME/gimp","not identifiable by github","c","94.5%","6.5k","today","this-week",no,yes
+"Gnucash/gnucash","not identifiable by github","c","38.5%","4.4k","yesterday","this-week",no,yes
+"Genymobile/scrcpy","Apache-2.0","c","64.8%","153k","october","this-year",no,no
+"GerritCodeReview/gerrit","Apache-2.0","java","72.5%","1.2k","today","this-week",no,no
+"GenericMappingTools/pygmt","BSD-3-Clause","python","99.8%","878","today","this-week",no,no
+"GreenDelta/olca-modules","MPL-2.0","java","99.9%","58","last saturday","this-week",yes,no
+"Giskard-AI/giskard","Apache-2.0","python","95.5%","5.9k","today","this-week",no,no
+"GoogleChrome/lighthouse","Apache-2.0","javascript","94.2%","31k","last saturday","this-week",no,no
+"HabitRPG/habitica","not identifiable by github","javascript","54.4%","14k","last friday","this-week",no,yes
+"Hammerspoon/hammerspoon","MIT","objective-c","51.1%","16k","july","this-year",no,no
+"Helsinki-NLP/Opus-MT","MIT","python","53.9%","868","february","this-year",no,no
+"HumanSignal/label-studio","Apache-2.0","typescript","38.4%","28k","today","this-week",no,no
+"HiEventsDev/Hi.Events","not identifiable by github","php","57.4%","4.1k","yesterday","this-week",no,yes
+"HypothesisWorks/hypothesis","not identifiable by github","python","98.3%","9.1k","today","this-week",no,yes
+"IfcOpenShell/IfcOpenShell","LGPL-3.0","c++","71.2%","2.9k","today","this-week",yes,no
+"ICLRandD/Blackstone","Apache-2.0","python","99.9%","700","january 2021","2023-or-older",no,no
+"IDEA-Research/GroundingDINO","Apache-2.0","python","79.3%","11k","august 2024","2024",no,no
+"Infisical/infisical","not identifiable by github","typescript","96.3%","30k","today","this-week",no,yes
+"ImageMagick/ImageMagick","not identifiable by github","c","70.6%","18k","today","this-week",no,yes
+"InsightSoftwareConsortium/ITK","Apache-2.0","c++","91.7%","1.7k","last saturday","this-week",no,no
+"JSBSim-Team/jsbsim","LGPL-2.1","c++","48.1%","2.3k","yesterday","this-week",yes,no
+"JuliaControl/ControlSystems.jl","not identifiable by github","julia","100.0%","583","last tuesday","this-week",no,yes
+"JabRef/jabref","MIT","java","92.7%","4.8k","today","this-week",no,no
+"KDE/digikam","GPL-2.0","c++","94.4%","808","august 2019","2023-or-older",yes,no
+"KDE/kdeconnect-kde","not specified","c++","77.6%","4.1k","today","this-week",no,yes
+"KDE/krita","GPL-3.0","c++","90.1%","11k","last friday","this-week",yes,no
+"KDE/kdenlive","GPL-3.0","c++","91.5%","5.9k","today","this-week",yes,no
+"KhronosGroup/OpenXR-SDK","Apache-2.0","c","50.0%","1.2k","last friday","this-week",no,no
+"Keypirinha/Keypirinha","not specified","language","none","1.1k","november 2020","2023-or-older",no,yes
+"Kareadita/Kavita","GPL-3.0","c#","63.5%","12k","last friday","this-week",yes,no
+"KhronosGroup/glTF","not identifiable by github","html","44.6%","7.9k","last tuesday","this-week",no,yes
+"Kinovea/Kinovea","GPL-2.0","c#","92.2%","503","october","this-year",yes,no
+"KiCad/kicad-source-mirror","GPL-3.0","c++","70.3%","3.1k","today","this-week",yes,no
+"Kitware/CMake","BSD-3-Clause","c","38.9%","8.1k","today","this-week",no,no
+"Kozea/Radicale","GPL-3.0","python","88.8%","5.1k","today","this-week",yes,no
+"Kitware/ParaView","BSD-3-Clause","c++","87.9%","1.7k","today","this-week",no,no
+"LMMS/lmms","GPL-2.0","c++","89.7%","10k","today","this-week",yes,no
+"Koha-Community/Koha","GPL-3.0","perl","54.7%","596","september","this-year",yes,no
+"Leantime/leantime","AGPL-3.0","php","55.3%","12k","today","this-week",yes,no
+"LCA-ActivityBrowser/activity-browser","LGPL-3.0","javascript","63.0%","208","october","this-year",yes,no
+"LexPredict/lexpredict-lexnlp","AGPL-3.0","jupyter notebook","42.4%","794","march 2023","2023-or-older",yes,no
+"LibraryOfCongress/bagit-python","not specified","python","98.8%","272","june","this-year",no,yes
+"LemmyNet/lemmy","AGPL-3.0","rust","78.3%","15k","last wednesday","this-week",yes,no
+"LibreOffice/core","GPL-3.0","c++","86.5%","4.5k","september","this-year",yes,no
+"LibreTranslate/LibreTranslate","AGPL-3.0","python","74.4%","17k","october","this-year",yes,no
+"LibrePDF/OpenPDF","not identifiable by github","java","96.9%","4.4k","july","this-year",no,yes
+"Lightning-AI/litgpt","Apache-2.0","python","99.9%","14k","september","this-year",no,no
+"LibreCAD/LibreCAD","not identifiable by github","c++","86.4%","6.5k","today","this-week",no,yes
+"LibreSign/libresign","AGPL-3.0","php","38.2%","834","today","this-week",yes,no
+"Lightricks/LTX-Video","Apache-2.0","python","100.0%","11k","january","this-year",no,no
+"MIC-DKFZ/nnUNet","Apache-2.0","python","99.1%","9k","last friday","this-week",no,no
+"Lightricks/LTX-2","not identifiable by github","python","89.4%","9.8k","yesterday","this-week",no,yes
+"LimeSurvey/LimeSurvey","not identifiable by github","javascript","42.1%","3.8k","today","this-week",no,yes
+"MISP/MISP","AGPL-3.0","php","78.8%","6.6k","october","this-year",yes,no
+"MTG/essentia","AGPL-3.0","c++","68.9%","3.8k","last wednesday","this-week",yes,no
+"ManimCommunity/manim","MIT","python","98.4%","42k","last friday","this-week",no,no
+"MITgcm/MITgcm","MIT","fortran","68.0%","410","last tuesday","this-week",no,no
+"Megvii-BaseDetection/YOLOX","Apache-2.0","python","92.6%","11k","june 2025","2025",no,no
+"MarquezProject/marquez","Apache-2.0","java","74.4%","2.3k","april","this-year",no,no
+"MiniMax-AI/MiniMax-M3","not specified","language","none","493","july","this-year",no,yes
+"Monado/monado","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"MikeSchulze/gdUnit4","MIT","gdscript","95.6%","1.3k","yesterday","this-week",no,no
+"ModelCloud/GPTQModel","not identifiable by github","python","87.4%","1.3k","today","this-week",no,yes
+"MouseLand/cellpose","BSD-3-Clause","python","58.4%","2.4k","june","this-year",no,no
+"NVIDIA-Merlin/Merlin","Apache-2.0","python","86.3%","909","july","this-year",no,no
+"MontrealCorpusTools/Montreal-Forced-Aligner","MIT","python","99.6%","1.9k","october","this-year",no,no
+"NREL/EnergyPlus","not identifiable by github","c++","86.3%","1.6k","last saturday","this-week",no,yes
+"NagiosEnterprises/nagioscore","GPL-2.0","c","75.6%","2.1k","august","this-year",yes,no
+"NREL/OpenStudio","not identifiable by github","c++","92.8%","650","october","this-year",no,yes
+"NVlabs/instant-ngp","not identifiable by github","cuda","74.3%","18k","february","this-year",no,yes
+"NVIDIA/TensorRT-LLM","not identifiable by github","python","67.5%","15k","today","this-week",no,yes
+"NVIDIA/garak","Apache-2.0","python","52.5%","9.6k","last friday","this-week",no,no
+"NVIDIA/NeMo","Apache-2.0","python","77.9%","19k","today","this-week",no,no
+"NatronGitHub/Natron","GPL-2.0","c++","85.9%","5.6k","july","this-year",yes,no
+"NationalSecurityAgency/ghidra","Apache-2.0","java","86.0%","91k","today","this-week",no,no
+"NetLogo/NetLogo","GPL-2.0","scala","46.0%","1.2k","september","this-year",yes,no
+"Nixtla/neuralforecast","Apache-2.0","python","85.3%","4.3k","last wednesday","this-week",no,no
+"OHF-Voice/piper1-gpl","GPL-3.0","c++","85.7%","5.9k","last saturday","this-week",yes,no
+"NodeBB/NodeBB","GPL-3.0","javascript","87.6%","15k","today","this-week",yes,no
+"Nixtla/statsforecast","Apache-2.0","python","85.9%","4.9k","last friday","this-week",no,no
+"OHIF/Viewers","MIT","typescript","78.8%","4.4k","last friday","this-week",no,no
+"OISF/suricata","GPL-2.0","c","72.3%","6.7k","last wednesday","this-week",yes,no
+"NixOS/nix","LGPL-2.1","c++","78.8%","18k","yesterday","this-week",yes,no
+"OPENAIRINTERFACE/openairinterface5g","not identifiable by github","c","90.4%","224","last friday","this-week",no,yes
+"ONLYOFFICE/DocumentServer","AGPL-3.0","shell","100.0%","7k","last wednesday","this-week",yes,no
+"OSGeo/PROJ","not identifiable by github","c++","85.6%","2k","today","this-week",no,yes
+"OSWorld/OSWorld","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"OWASP/threat-dragon","Apache-2.0","javascript","84.8%","1.7k","last saturday","this-week",no,no
+"OSGeo/gdal","not identifiable by github","c++","65.9%","6.1k","today","this-week",no,yes
+"OpenAPITools/openapi-generator","Apache-2.0","java","93.1%","27k","today","this-week",no,no
+"OWASP/www-project-top-10-for-large-language-model-applications","not identifiable by github","python","45.9%","1.5k","august","this-year",no,yes
+"Open-Source-Legal/OpenContracts","MIT","python","66.8%","1.5k","yesterday","this-week",no,no
+"OceanParcels/Parcels","MIT","python","100.0%","367","today","this-week",no,no
+"OpenCPN/OpenCPN","GPL-2.0","c","62.4%","1.5k","last thursday","this-week",yes,no
+"OpenCTI-Platform/opencti","not identifiable by github","typescript","78.3%","10k","today","this-week",no,yes
+"OpenBB-finance/OpenBB","not identifiable by github","python","100.0%","74k","yesterday","this-week",no,yes
+"OpenBMB/MiniCPM-o","Apache-2.0","python","83.3%","27k","last friday","this-week",no,no
+"OpenClinica/OpenClinica","not specified","java","89.2%","516","june 2024","2024",no,yes
+"OpenDroneMap/ODM","AGPL-3.0","python","94.9%","6.5k","september","this-year",yes,no
+"OpenEMS/openems","AGPL-3.0","java","74.9%","1.6k","yesterday","this-week",yes,no
+"OpenGVLab/InternVL","MIT","python","52.7%","10k","september 2025","2025",no,no
+"OpenFOAM/OpenFOAM-dev","not identifiable by github","c++","97.8%","2.3k","yesterday","this-week",no,yes
+"OpenMS/pyopenms","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"OpenHands/OpenHands","MIT","typescript","91.9%","91k","today","this-week",no,no
+"OpenMS/OpenMS","not identifiable by github","c++","87.2%","627","today","this-week",no,yes
+"OpenLineage/OpenLineage","Apache-2.0","java","65.8%","2.7k","today","this-week",no,no
+"OpenModelica/OpenModelica","not identifiable by github","modelica","60.9%","1.4k","today","this-week",no,yes
+"OpenInterpreter/open-interpreter","Apache-2.0","rust","96.8%","69k","october","this-year",no,no
+"OpenRefine/OpenRefine","BSD-3-Clause","java","68.7%","12k","october","this-year",no,no
+"OpenRA/OpenRA","GPL-3.0","c#","77.2%","18k","october","this-year",yes,no
+"OpenRailwayMap/OpenRailwayMap","GPL-3.0","css","30.0%","516","april","this-year",yes,no
+"OpenRLHF/OpenRLHF","Apache-2.0","python","99.7%","10k","september","this-year",no,no
+"OpenSCAP/openscap","LGPL-2.1","xslt","72.1%","1.8k","october","this-year",yes,no
+"OpenTracksApp/OpenTracks","Apache-2.0","java","99.7%","1.4k","august 2025","2025",no,no
+"OpenSpace/OpenSpace","not identifiable by github","c++","74.1%","1.3k","today","this-week",no,yes
+"PDAL/PDAL","not identifiable by github","c++","97.2%","1.4k","today","this-week",no,yes
+"PX4/PX4-Autopilot","BSD-3-Clause","c++","50.4%","13k","today","this-week",no,no
+"PaddlePaddle/PaddleOCR","Apache-2.0","python","68.2%","91k","september","this-year",no,no
+"PennyLaneAI/pennylane","Apache-2.0","python","100.0%","3.5k","today","this-week",no,no
+"PixarAnimationStudios/OpenUSD","not identifiable by github","c++","70.0%","7.5k","last tuesday","this-week",no,yes
+"Princeton-CDH/eScriptorium","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"PointCloudLibrary/pcl","not identifiable by github","c++","93.1%","11k","last saturday","this-week",no,yes
+"Piwigo/Piwigo","GPL-2.0","php","74.4%","3.9k","today","this-week",yes,no
+"PostHog/posthog","not identifiable by github","python","54.8%","40k","today","this-week",no,yes
+"PrefectHQ/prefect","Apache-2.0","python","79.4%","24k","last saturday","this-week",no,no
+"Project-MONAI/MONAILabel","Apache-2.0","python","80.0%","905","today","this-week",no,no
+"Project-MONAI/MONAI","Apache-2.0","python","95.6%","8.8k","today","this-week",no,no
+"Pyomo/pyomo","not identifiable by github","python","96.2%","2.5k","last friday","this-week",no,yes
+"PyPSA/PyPSA","MIT","python","100.0%","2.2k","last friday","this-week",no,no
+"Project-OSRM/osrm-backend","BSD-2-Clause","c++","66.1%","8.2k","october","this-year",no,no
+"PyPortfolio/PyPortfolioOpt","MIT","jupyter notebook","94.1%","6.1k","july","this-year",no,no
+"Qiskit/qiskit","Apache-2.0","python","65.3%","7.9k","today","this-week",no,no
+"Qiskit/rustworkx","Apache-2.0","rust","58.4%","1.8k","september","this-year",no,no
+"QwenLM/Qwen-Image","Apache-2.0","python","100.0%","8.4k","february","this-year",no,no
+"QwenLM/Qwen3-ASR","Apache-2.0","python","100.0%","3.7k","june","this-year",no,no
+"QwenLM/Qwen3-VL","Apache-2.0","jupyter notebook","99.3%","20k","january","this-year",no,no
+"QwenLM/Qwen3-Embedding","not specified","python","98.3%","2.1k","september 2025","2025",no,yes
+"QwenLM/Qwen3-VL-Embedding","Apache-2.0","python","94.9%","1.4k","june","this-year",no,no
+"QwenLM/Qwen3-TTS","Apache-2.0","python","100.0%","14k","march","this-year",no,no
+"QwenLM/Qwen3.8","Apache-2.0","language","none","4.3k","august","this-year",no,no
+"RUCAIBox/RecBole","MIT","python","82.1%","4.6k","february 2025","2025",no,no
+"RodZill4/material-maker","MIT","gdscript","92.3%","6k","last thursday","this-week",no,no
+"RDFLib/rdflib","BSD-3-Clause","python","96.7%","2.5k","last friday","this-week",no,no
+"RVC-Project/Retrieval-based-Voice-Conversion-WebUI","MIT","python","94.2%","39k","august","this-year",no,no
+"RosettaCommons/RFdiffusion","not identifiable by github","python","99.4%","3.1k","july","this-year",no,yes
+"SYSTRAN/faster-whisper","MIT","python","99.9%","26k","last friday","this-week",no,no
+"SWE-agent/SWE-agent","MIT","python","94.9%","21k","july","this-year",no,no
+"SciTools/iris","BSD-3-Clause","python","100.0%","729","last thursday","this-week",no,no
+"RooCodeInc/Roo-Code","Apache-2.0","typescript","90.6%","24k","may","this-year",no,no
+"SeldonIO/seldon-core","not identifiable by github","go","55.1%","4.8k","january","this-year",no,yes
+"RaiMan/SikuliX1","MIT","java","68.7%","3.3k","may","this-year",no,no
+"RooVetGit/Roo-Code","Apache-2.0","typescript","90.6%","24k","may","this-year",no,no
+"SeldonIO/alibi-detect","not identifiable by github","jupyter notebook","84.9%","2.5k","december 2025","2025",no,yes
+"Security-Onion-Solutions/securityonion","not identifiable by github","shell","47.4%","4.9k","september","this-year",no,yes
+"SeleniumHQ/selenium","Apache-2.0","java","34.2%","35k","today","this-week",no,no
+"SimpleITK/SimpleITK","Apache-2.0","c++","63.6%","1.1k","last wednesday","this-week",no,no
+"ServiceNow/BrowserGym","not identifiable by github","python","88.8%","1.4k","october","this-year",no,yes
+"SigNoz/signoz","not identifiable by github","typescript","50.6%","32k","today","this-week",no,yes
+"Skyvern-AI/skyvern","AGPL-3.0","python","78.4%","23k","today","this-week",yes,no
+"Significant-Gravitas/AutoGPT","not identifiable by github","python","66.4%","188k","today","this-week",no,yes
+"Slicer/Slicer","not identifiable by github","c++","80.8%","2.7k","last friday","this-week",no,yes
+"Stability-AI/stable-fast-3d","not identifiable by github","python","61.4%","1.9k","january 2025","2025",no,yes
+"SubtitleEdit/subtitleedit","MIT","c#","99.2%","15k","today","this-week",no,no
+"SoftFever/OrcaSlicer","AGPL-3.0","c++","81.4%","16k","today","this-week",yes,no
+"Stellarium/stellarium","GPL-2.0","c++","46.7%","10k","yesterday","this-week",yes,no
+"SwissDataScienceCenter/renku","Apache-2.0","typescript","60.4%","275","last tuesday","this-week",no,no
+"TabbyML/tabby","not identifiable by github","rust","92.9%","34k","june","this-year",no,yes
+"THUDM/CogKit","Apache-2.0","python","99.7%","133","may 2025","2025",no,no
+"TEOS-10/GSW-Python","not identifiable by github","c","94.4%","184","today","this-week",no,yes
+"Tencent-Hunyuan/HunyuanVideo-1.5","not identifiable by github","python","100.0%","4.6k","april","this-year",no,yes
+"THUDM/CogVideo","Apache-2.0","python","98.9%","13k","november 2025","2025",no,no
+"TandoorRecipes/recipes","not identifiable by github","html","35.3%","8.7k","yesterday","this-week",no,yes
+"Tencent-Hunyuan/Hunyuan3D-1","not identifiable by github","python","97.6%","3.5k","november 2025","2025",no,yes
+"TencentARC/InstantMesh","Apache-2.0","python","99.4%","4.6k","january 2025","2025",no,no
+"TencentARC/GFPGAN","not identifiable by github","python","100.0%","38k","april 2024","2024",no,yes
+"The-OpenROAD-Project/OpenROAD","BSD-3-Clause","verilog","67.2%","3.2k","today","this-week",no,no
+"TrenchBroom/TrenchBroom","GPL-3.0","c++","97.8%","2.9k","today","this-week",yes,no
+"UKGovernmentBEIS/inspect_ai","MIT","python","99.8%","3k","today","this-week",no,no
+"TriliumNext/Trilium","AGPL-3.0","typescript","80.6%","38k","today","this-week",yes,no
+"TryGhost/Ghost","MIT","typescript","62.4%","56k","today","this-week",no,no
+"Unidata/MetPy","BSD-3-Clause","python","99.8%","1.4k","october","this-year",no,no
+"Ultimaker/Cura","LGPL-3.0","python","72.2%","7.1k","october","this-year",yes,no
+"VAST-AI-Research/TripoSR","MIT","python","100.0%","7.1k","june","this-year",no,no
+"Unstructured-IO/unstructured","Apache-2.0","html","87.8%","16k","last friday","this-week",no,no
+"VictoriaMetrics/VictoriaMetrics","Apache-2.0","go","87.6%","18k","today","this-week",no,no
+"VROOM-Project/vroom","BSD-2-Clause","c++","98.9%","1.9k","march","this-year",no,no
+"Velocidex/velociraptor","not identifiable by github","go","77.5%","4.4k","last saturday","this-week",no,yes
+"Wan-Video/Wan2.2","Apache-2.0","python","99.2%","18k","september","this-year",no,no
+"VikParuchuri/surya","Apache-2.0","python","96.3%","22k","september","this-year",no,no
+"WeblateOrg/weblate","GPL-3.0","python","91.8%","6.1k","today","this-week",yes,no
+"YosemiteCrew/Yosemite-Crew","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"UKPLab/sentence-transformers","Apache-2.0","python","100.0%","19k","today","this-week",no,no
+"abiword/recoll","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"VikParuchuri/marker","Apache-2.0","python","99.5%","41k","last wednesday","this-week",no,no
+"WordPress/wordpress-develop","GPL-2.0","php","81.5%","3.5k","today","this-week",yes,no
+"Zulko/moviepy","MIT","python","99.9%","15k","august","this-year",no,no
+"accordproject/accordproject","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"adbar/trafilatura","Apache-2.0","python","100.0%","7k","october","this-year",no,no
+"YosysHQ/yosys","ISC","c++","49.7%","4.8k","today","this-week",no,no
+"actualbudget/actual","MIT","typescript","94.6%","30k","today","this-week",no,no
+"Z3Prover/z3","not identifiable by github","c++","82.1%","13k","today","this-week",no,yes
+"advimman/lama","Apache-2.0","jupyter notebook","86.1%","10k","february 2025","2025",no,no
+"ahmetaa/zemberek-nlp","not identifiable by github","java","93.4%","1.4k","october","this-year",no,yes
+"airbytehq/airbyte","not identifiable by github","python","46.9%","22k","today","this-week",no,yes
+"alephdata/aleph","MIT","javascript","38.2%","2.4k","december 2025","2025",no,no
+"aisingapore/TagUI","Apache-2.0","javascript","31.9%","6.3k","september","this-year",no,no
+"alicevision/meshroom","not identifiable by github","python","53.2%","13k","last friday","this-week",no,yes
+"allenai/molmo","Apache-2.0","python","100.0%","940","december 2024","2024",no,no
+"allenai/dolma","Apache-2.0","python","80.1%","1.6k","september 2025","2025",no,no
+"americanexpress/jest-image-snapshot","Apache-2.0","javascript","100.0%","3.9k","october","this-year",no,no
+"alphacep/vosk-api","Apache-2.0","jupyter notebook","87.5%","15k","last thursday","this-week",no,no
+"allure-framework/allure2","Apache-2.0","html","83.7%","5.6k","september","this-year",no,no
+"amperser/proselint","BSD-3-Clause","javascript","32.9%","4.6k","june","this-year",no,no
+"anchore/syft","Apache-2.0","go","98.9%","9.7k","last friday","this-week",no,no
+"anchore/grype","Apache-2.0","go","97.0%","13k","today","this-week",no,no
+"anomalyco/opencode","MIT","typescript","81.4%","217k","today","this-week",no,no
+"anhaidgroup/deepmatcher","BSD-3-Clause","python","100.0%","624","june 2021","2023-or-older",no,no
+"ankitects/anki","not identifiable by github","rust","37.5%","32k","today","this-week",no,yes
+"ansible/ansible","GPL-3.0","python","86.3%","71k","last friday","this-week",yes,no
+"apache/airflow","Apache-2.0","python","87.7%","47k","today","this-week",no,no
+"apache/flink","Apache-2.0","java","86.9%","26k","today","this-week",no,no
+"apache/iceberg","Apache-2.0","java","98.4%","9.3k","today","this-week",no,no
+"apache/fineract","Apache-2.0","java","61.7%","2.6k","today","this-week",no,no
+"ansible/awx","not identifiable by github","python","98.1%","16k","last thursday","this-week",no,yes
+"apache/jena","Apache-2.0","java","97.9%","1.5k","today","this-week",no,no
+"apache/nutch","Apache-2.0","java","96.8%","3.3k","last saturday","this-week",no,no
+"apache/kafka","Apache-2.0","java","90.3%","34k","today","this-week",no,no
+"apache/jmeter","Apache-2.0","java","90.5%","9.6k","october","this-year",no,no
+"apache/nifi","Apache-2.0","java","82.4%","6.3k","today","this-week",no,no
+"apache/superset","Apache-2.0","python","55.9%","75k","today","this-week",no,no
+"apache/solr","Apache-2.0","java","95.2%","1.7k","last saturday","this-week",no,no
+"apache/pulsar","Apache-2.0","java","98.7%","15k","today","this-week",no,no
+"apertium/apertium","GPL-2.0","c++","44.8%","115","last tuesday","this-week",yes,no
+"apache/tika","Apache-2.0","java","86.3%","4.1k","today","this-week",no,no
+"apache/spark","Apache-2.0","scala","70.1%","44k","today","this-week",no,no
+"apify/crawlee","Apache-2.0","typescript","62.2%","26k","today","this-week",no,no
+"appium/appium","Apache-2.0","typescript","94.2%","22k","today","this-week",no,no
+"aqlaboratory/openfold","Apache-2.0","python","93.5%","3.4k","december 2025","2025",no,no
+"argilla-io/argilla","Apache-2.0","python","59.2%","5.2k","august 2025","2025",no,no
+"argoproj/argo-cd","Apache-2.0","go","79.7%","24k","today","this-week",no,no
+"aquasecurity/trivy","Apache-2.0","go","99.5%","39k","today","this-week",no,no
+"archesproject/arches","AGPL-3.0","python","53.0%","290","last friday","this-week",yes,no
+"asreview/asreview","Apache-2.0","python","57.3%","1k","august","this-year",no,no
+"argoproj/argo-workflows","Apache-2.0","go","86.4%","17k","today","this-week",no,no
+"argosopentech/argos-translate","MIT","python","94.8%","6.6k","august","this-year",no,no
+"arviz-devs/arviz","Apache-2.0","tex","57.9%","1.9k","october","this-year",no,no
+"artefactual/archivematica","AGPL-3.0","python","82.7%","522","last thursday","this-week",yes,no
+"assimp/assimp","not identifiable by github","c++","70.1%","13k","last saturday","this-week",no,yes
+"astropy/astropy","BSD-3-Clause","python","68.1%","5.3k","today","this-week",no,no
+"ast-grep/ast-grep","MIT","rust","95.0%","16k","last thursday","this-week",no,no
+"audacity/audacity","not identifiable by github","c++","79.8%","19k","today","this-week",no,yes
+"astral-sh/ruff","MIT","rust","96.8%","50k","today","this-week",no,no
+"asweigart/pyautogui","BSD-3-Clause","python","100.0%","13k","june 2023","2023-or-older",no,no
+"authzed/spicedb","Apache-2.0","go","99.7%","7.2k","september","this-year",no,no
+"awslabs/gluonts","Apache-2.0","python","87.4%","5.2k","last tuesday","this-week",no,no
+"automl/SMAC3","not identifiable by github","python","99.2%","1.3k","september","this-year",no,yes
+"axolotl-ai-cloud/axolotl","Apache-2.0","python","96.9%","13k","today","this-week",no,no
+"autokey/autokey","GPL-3.0","python","100.0%","3.9k","may","this-year",yes,no
+"autowarefoundation/autoware","Apache-2.0","dockerfile","39.1%","12k","yesterday","this-week",no,no
+"awslabs/deequ","Apache-2.0","scala","99.2%","3.6k","september","this-year",no,no
+"azavea/raster-vision","Apache-2.0","python","96.7%","2.2k","june","this-year",no,no
+"bagisto/bagisto","MIT","php","74.0%","28k","last friday","this-week",no,no
+"bazelbuild/bazel","Apache-2.0","java","83.3%","26k","today","this-week",no,no
+"beancount/beancount","GPL-2.0","python","74.1%","6.1k","august","this-year",yes,no
+"bevyengine/bevy","Apache-2.0","rust","94.6%","49k","today","this-week",no,no
+"bigbluebutton/bigbluebutton","LGPL-3.0","typescript","37.6%","9.2k","last friday","this-week",yes,no
+"bentoml/BentoML","Apache-2.0","python","97.0%","8.9k","september","this-year",no,no
+"biofold/openfold","Apache-2.0","python","89.9%","1","september 2025","2025",no,no
+"bigcode-project/starcoder2","Apache-2.0","python","100.0%","2.1k","march 2024","2024",no,no
+"biomejs/biome","Apache-2.0","rust","84.6%","26k","today","this-week",no,no
+"bitsandbytes-foundation/bitsandbytes","MIT","python","68.5%","8.5k","september","this-year",no,no
+"bitwes/Gut","not specified","gdscript","100.0%","2.8k","august","this-year",no,yes
+"biopython/biopython","not identifiable by github","python","94.0%","5.2k","yesterday","this-week",no,yes
+"black-forest-labs/flux2","Apache-2.0","python","100.0%","2.8k","march","this-year",no,no
+"blender/blender","not identifiable by github","c++","80.8%","21k","today","this-week",no,yes
+"borgbackup/borg","not identifiable by github","python","89.2%","14k","today","this-week",no,yes
+"block/goose","Apache-2.0","rust","71.7%","55k","today","this-week",no,no
+"bridgecrewio/checkov","Apache-2.0","python","76.1%","9.1k","last tuesday","this-week",no,no
+"bpftrace/bpftrace","Apache-2.0","c++","73.6%","10k","today","this-week",no,no
+"brightway-lca/brightway2","BSD-3-Clause","jupyter notebook","61.0%","143","april 2025","2025",no,no
+"browser-use/browser-use","MIT","python","99.2%","118k","last saturday","this-week",no,no
+"buildroot/buildroot","not identifiable by github","makefile","62.2%","3.7k","today","this-week",no,yes
+"browsermt/bergamot-translator","MPL-2.0","c++","70.2%","556","may 2024","2024",yes,no
+"calliope-project/calliope","Apache-2.0","python","85.8%","377","last tuesday","this-week",no,no
+"browserbase/stagehand","MIT","typescript","66.9%","26k","yesterday","this-week",no,no
+"casadi/casadi","LGPL-3.0","c++","46.4%","2.3k","today","this-week",yes,no
+"calyau/maxima","not identifiable by github","common lisp","74.0%","147","yesterday","this-week",no,yes
+"castorini/pyserini","Apache-2.0","python","96.3%","2.2k","yesterday","this-week",no,no
+"calcom/cal.com","MIT","typescript","95.7%","49k","yesterday","this-week",no,no
+"celery/celery","not identifiable by github","python","99.1%","29k","yesterday","this-week",no,yes
+"carla-simulator/carla","MIT","c++","53.0%","15k","today","this-week",no,no
+"cert-manager/cert-manager","Apache-2.0","go","95.7%","14k","last thursday","this-week",no,no
+"ccbogel/QualCoder","LGPL-3.0","python","99.8%","694","last saturday","this-week",yes,no
+"chatwoot/chatwoot","not identifiable by github","ruby","50.5%","38k","today","this-week",no,yes
+"chroma-core/chroma","Apache-2.0","rust","71.2%","30k","last saturday","this-week",no,no
+"citation-js/citation-js","MIT","javascript","90.8%","213","september","this-year",no,no
+"cleanlab/cleanlab","Apache-2.0","python","100.0%","12k","january","this-year",no,no
+"clearml/clearml","Apache-2.0","python","100.0%","6.9k","october","this-year",no,no
+"ckan/ckan","not identifiable by github","python","72.7%","5.1k","today","this-week",no,yes
+"clearlydefined/clearlydefined","CC0-1.0","javascript","90.2%","110","october","this-year",no,no
+"cnr-isti-vclab/meshlab","GPL-3.0","c++","83.1%","5.9k","july","this-year",yes,no
+"cline/cline","Apache-2.0","typescript","97.9%","71k","today","this-week",no,no
+"cloud-custodian/cloud-custodian","Apache-2.0","python","96.8%","6.1k","last saturday","this-week",no,no
+"codemirror/dev","not identifiable by github","javascript","100.0%","7.8k","april","this-year",no,yes
+"cockpit-project/cockpit","not specified","python","33.1%","15k","last friday","this-week",no,yes
+"collectiveaccess/providence","GPL-3.0","php","72.9%","386","october","this-year",yes,no
+"colmap/colmap","not identifiable by github","c++","86.7%","13k","today","this-week",no,yes
+"coin-or/pulp","not identifiable by github","python","84.7%","2.5k","today","this-week",no,yes
+"commaai/openpilot","MIT","python","58.8%","64k","yesterday","this-week",no,no
+"consuldemocracy/consuldemocracy","AGPL-3.0","ruby","77.6%","1.6k","october","this-year",yes,no
+"confident-ai/deepeval","Apache-2.0","python","77.8%","19k","today","this-week",no,no
+"containerd/containerd","Apache-2.0","go","97.6%","21k","today","this-week",no,no
+"continuedev/continue","Apache-2.0","typescript","83.6%","36k","july","this-year",no,no
+"containers/bubblewrap","not identifiable by github","c","64.2%","9.1k","last wednesday","this-week",no,yes
+"coqui-ai/TTS","MPL-2.0","python","92.0%","46k","february 2024","2024",yes,no
+"coreemu/core","BSD-2-Clause","python","90.8%","837","may 2025","2025",no,no
+"cp2k/cp2k","GPL-2.0","fortran","91.2%","1.2k","today","this-week",yes,no
+"containers/podman","Apache-2.0","go","81.2%","33k","today","this-week",no,no
+"coq/coq","LGPL-2.1","ocaml","73.2%","5.6k","today","this-week",yes,no
+"crewAIInc/crewAI","MIT","python","99.4%","60k","today","this-week",no,no
+"cuthbertLab/music21","BSD-3-Clause","python","99.9%","2.6k","yesterday","this-week",no,no
+"cvat-ai/cvat","MIT","python","43.9%","17k","today","this-week",no,no
+"crossplane/crossplane","Apache-2.0","go","98.3%","12k","last friday","this-week",no,no
+"cvxpy/cvxpy","Apache-2.0","c++","60.9%","6.4k","last tuesday","this-week",no,no
+"cvc5/cvc5","not identifiable by github","smt","67.3%","1.4k","last saturday","this-week",no,yes
+"dagger/dagger","Apache-2.0","go","87.8%","16k","today","this-week",no,no
+"cyberbotics/webots","Apache-2.0","c++","54.1%","4.7k","last thursday","this-week",no,no
+"dafny-lang/dafny","not identifiable by github","c#","56.9%","3.6k","september","this-year",no,yes
+"cypress-io/cypress","MIT","typescript","69.2%","51k","today","this-week",no,no
+"danforthcenter/plantcv","MPL-2.0","python","99.9%","835","october","this-year",yes,no
+"dagster-io/dagster","Apache-2.0","python","80.1%","16k","today","this-week",no,no
+"danger/danger","MIT","ruby","98.8%","5.7k","october","this-year",no,no
+"darold/pgFormatter","PostgreSQL","plpgsql","92.8%","2k","september","this-year",no,no
+"danielgatis/rembg","MIT","python","94.4%","25k","october","this-year",no,no
+"datahub-project/datahub","Apache-2.0","python","44.8%","13k","today","this-week",no,no
+"dask/dask","BSD-3-Clause","python","99.9%","14k","september","this-year",no,no
+"datalad/datalad","not identifiable by github","python","98.5%","668","last wednesday","this-week",no,yes
+"dauparas/ProteinMPNN","MIT","jupyter notebook","84.4%","1.9k","june 2023","2023-or-older",no,no
+"davidpagnon/Sports2D","BSD-3-Clause","python","83.3%","327","october","this-year",no,no
+"dbeaver/dbeaver","Apache-2.0","java","99.4%","52k","today","this-week",no,no
+"deepset-ai/haystack","Apache-2.0","python","98.5%","27k","today","this-week",no,no
+"decidim/decidim","AGPL-3.0","ruby","80.5%","1.8k","today","this-week",yes,no
+"deepchem/deepchem","MIT","python","99.0%","7.1k","august","this-year",no,no
+"dealii/dealii","not identifiable by github","c++","99.0%","1.7k","today","this-week",no,yes
+"dedupeio/dedupe","MIT","python","99.1%","4.5k","july 2025","2025",no,no
+"dbt-labs/dbt-core","Apache-2.0","rust","85.7%","14k","yesterday","this-week",no,no
+"defold/defold","not identifiable by github","c++","33.3%","6.4k","today","this-week",no,yes
+"delta-io/delta","Apache-2.0","scala","74.5%","9.1k","today","this-week",no,no
+"deezer/spleeter","MIT","python","87.9%","28k","june","this-year",no,no
+"dhis2/dhis2-core","BSD-3-Clause","java","97.5%","358","today","this-week",no,no
+"dmlc/xgboost","Apache-2.0","c++","45.8%","29k","today","this-week",no,no
+"discourse/discourse","GPL-2.0","ruby","60.5%","48k","today","this-week",yes,no
+"dlt-hub/dlt","Apache-2.0","python","99.7%","6k","last saturday","this-week",no,no
+"docling-project/docling","MIT","python","99.7%","69k","today","this-week",no,no
+"dequelabs/axe-core","MPL-2.0","html","78.1%","7.7k","last thursday","this-week",yes,no
+"domoticz/domoticz","GPL-3.0","c++","59.2%","3.8k","today","this-week",yes,no
+"do-mpc/do-mpc","LGPL-3.0","python","100.0%","1.5k","september","this-year",yes,no
+"dss-extensions/OpenDSSDirect.py","not identifiable by github","python","99.9%","117","march 2024","2024",no,yes
+"e2nIEE/pandapower","not identifiable by github","python","96.1%","1.3k","today","this-week",no,yes
+"dtmilano/AndroidViewClient","Apache-2.0","python","98.9%","1.7k","september","this-year",no,no
+"dubzzz/fast-check","MIT","typescript","94.0%","5.2k","today","this-week",no,no
+"dottxt-ai/outlines","Apache-2.0","python","99.7%","16k","august","this-year",no,no
+"duckdb/duckdb","MIT","c++","92.3%","42k","today","this-week",no,no
+"earthly/earthly","MPL-2.0","go","71.3%","12k","july 2025","2025",yes,no
+"eclipse-kura/kura","EPL-2.0","java","79.1%","583","today","this-week",yes,no
+"eclipse-sumo/sumo","EPL-2.0","python","47.9%","4.2k","today","this-week",yes,no
+"edgexfoundry/edgex-go","Apache-2.0","go","95.8%","1.5k","october","this-year",no,no
+"ehrbase/ehrbase","Apache-2.0","java","98.8%","387","last friday","this-week",no,no
+"eikek/docspell","AGPL-3.0","elm","47.0%","2.3k","today","this-week",yes,no
+"ehmoussi/code_aster","GPL-3.0","fortran","62.5%","3","november 2020","2023-or-older",yes,no
+"ecmwf/cfgrib","Apache-2.0","python","96.6%","465","july","this-year",no,no
+"elabftw/elabftw","AGPL-3.0","php","56.2%","1.5k","today","this-week",yes,no
+"element-hq/element-web","AGPL-3.0","typescript","94.4%","14k","today","this-week",yes,no
+"en/rest","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"eramba/eramba","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"element-hq/synapse","AGPL-3.0","python","95.2%","4.7k","today","this-week",yes,no
+"epiforecasts/EpiNow2","not identifiable by github","r","73.0%","140","october","this-year",no,yes
+"eslint/eslint","MIT","javascript","99.4%","28k","today","this-week",no,no
+"espressif/esp-idf","Apache-2.0","c","95.3%","19k","today","this-week",no,no
+"espanso/espanso","GPL-3.0","rust","55.6%","15k","september","this-year",yes,no
+"errata-ai/vale","MIT","go","99.7%","6.3k","last friday","this-week",no,no
+"espocrm/espocrm","AGPL-3.0","php","66.4%","3.5k","today","this-week",yes,no
+"esmf-org/esmf","not identifiable by github","fortran","39.0%","210","october","this-year",no,yes
+"evangauer/openvpm","AGPL-3.0","typescript","95.3%","41","october","this-year",yes,no
+"evidentlyai/evidently","Apache-2.0","jupyter notebook","70.2%","8k","september","this-year",no,no
+"evidence-dev/evidence","MIT","typescript","81.9%","7k","last friday","this-week",no,no
+"excalidraw/excalidraw","MIT","typescript","94.9%","134k","yesterday","this-week",no,no
+"facebook/Ax","MIT","python","95.3%","2.8k","last friday","this-week",no,no
+"exiftool/exiftool","GPL-3.0","perl","61.7%","5.2k","may","this-year",yes,no
+"explosion/spaCy","MIT","python","54.1%","34k","september","this-year",no,no
+"facebook/docusaurus","MIT","typescript","96.0%","67k","last friday","this-week",no,no
+"explodinggradients/ragas","Apache-2.0","python","83.0%","16k","february","this-year",no,no
+"facebook/buck2","Apache-2.0","rust","56.8%","4.5k","today","this-week",no,no
+"facebookresearch/demucs","MIT","python","98.1%","10k","november 2023","2023-or-older",no,no
+"facebook/prophet","MIT","python","64.4%","20k","last tuesday","this-week",no,no
+"facebookresearch/detectron2","Apache-2.0","python","94.0%","35k","september","this-year",no,no
+"facebookresearch/esm","MIT","python","99.2%","4.2k","june 2023","2023-or-older",no,no
+"facebookresearch/fairseq","MIT","python","98.2%","32k","september 2025","2025",no,no
+"facebookresearch/fastText","MIT","html","68.3%","27k","march 2024","2024",no,no
+"facebookresearch/nevergrad","MIT","python","95.6%","4.2k","last tuesday","this-week",no,no
+"facebookresearch/segment-anything","Apache-2.0","jupyter notebook","99.1%","55k","september 2024","2024",no,no
+"facebookresearch/sam2","Apache-2.0","jupyter notebook","97.8%","20k","december 2024","2024",no,no
+"farmOS/farmOS","GPL-2.0","php","71.5%","1.4k","today","this-week",yes,no
+"fashionfreedom/seamly2d","GPL-3.0","c++","95.9%","1k","today","this-week",yes,no
+"feast-dev/feast","Apache-2.0","python","76.5%","7.3k","yesterday","this-week",no,no
+"firecrawl/firecrawl","AGPL-3.0","typescript","72.3%","193k","today","this-week",yes,no
+"firecracker-microvm/firecracker","Apache-2.0","rust","78.4%","37k","last wednesday","this-week",no,no
+"firedrakeproject/firedrake","not identifiable by github","python","94.4%","679","last thursday","this-week",no,yes
+"firefly-iii/firefly-iii","AGPL-3.0","php","72.6%","25k","last saturday","this-week",yes,no
+"flarum/flarum","MIT","php","100.0%","16k","october","this-year",no,no
+"fontforge/fontforge","not identifiable by github","c","88.6%","8k","yesterday","this-week",no,yes
+"fluxcd/flux2","Apache-2.0","go","98.5%","8.4k","yesterday","this-week",no,no
+"formbricks/formbricks","not identifiable by github","typescript","97.5%","13k","today","this-week",no,yes
+"flairNLP/flair","not identifiable by github","python","100.0%","14k","june 2025","2025",no,yes
+"formancehq/ledger","not specified","go","97.1%","1.4k","today","this-week",no,yes
+"flintlib/flint","LGPL-3.0","c","95.6%","664","yesterday","this-week",yes,no
+"frappe/hrms","GPL-3.0","python","73.8%","8.9k","today","this-week",yes,no
+"fossasia/open-event-server","GPL-3.0","python","95.9%","3k","march 2024","2024",yes,no
+"frappe/erpnext","GPL-3.0","python","81.6%","40k","today","this-week",yes,no
+"free5gc/free5gc","Apache-2.0","go","91.3%","2.4k","last friday","this-week",no,no
+"freelawproject/courtlistener","not identifiable by github","python","73.0%","1k","last saturday","this-week",no,yes
+"frictionlessdata/frictionless","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"freelawproject/eyecite","BSD-2-Clause","python","93.8%","291","october","this-year",no,no
+"freelawproject/recap","not specified","language","none","19","november 2025","2025",no,yes
+"frictionlessdata/frictionless-py","MIT","python","80.2%","846","last thursday","this-week",no,no
+"freescout-helpdesk/freescout","AGPL-3.0","php","90.9%","4.6k","last saturday","this-week",yes,no
+"frescobaldi/frescobaldi","GPL-2.0","python","95.4%","955","today","this-week",yes,no
+"fsfe/reuse-tool","not specified","python","99.2%","594","october","this-year",no,yes
+"galaxyproject/galaxy","not identifiable by github","python","61.0%","1.9k","today","this-week",no,yes
+"gazebosim/gz-sim","Apache-2.0","c++","92.1%","1.5k","last friday","this-week",no,no
+"gbif/gbif-api","Apache-2.0","java","100.0%","42","last tuesday","this-week",no,no
+"gatling/gatling","Apache-2.0","scala","65.0%","7k","last friday","this-week",no,no
+"frida/frida","not identifiable by github","meson","40.5%","22k","today","this-week",no,yes
+"gboeing/osmnx","MIT","python","98.3%","5.9k","july","this-year",no,no
+"geographiclib/geographiclib","MIT","c++","91.1%","485","november 2025","2025",no,no
+"gempy-project/gempy","EUPL-1.2","python","98.7%","1.4k","last wednesday","this-week",yes,no
+"geopandas/geopandas","BSD-3-Clause","python","100.0%","5.3k","october","this-year",no,no
+"gephi/gephi","GPL-3.0","java","99.2%","6.7k","yesterday","this-week",yes,no
+"geoserver/geoserver","not identifiable by github","java","91.7%","4.5k","today","this-week",no,yes
+"getodk/collect","not identifiable by github","kotlin","59.0%","796","last wednesday","this-week",no,yes
+"getredash/redash","BSD-2-Clause","python","44.5%","29k","october","this-year",no,no
+"getlago/lago","AGPL-3.0","go","84.2%","11k","last tuesday","this-week",yes,no
+"getsops/sops","MPL-2.0","go","91.7%","23k","last tuesday","this-week",yes,no
+"getzep/graphiti","Apache-2.0","python","99.4%","32k","today","this-week",no,no
+"getzola/zola","EUPL-1.2","rust","97.7%","18k","last wednesday","this-week",yes,no
+"getzep/zep","Apache-2.0","python","70.7%","5k","last wednesday","this-week",no,no
+"ggml-org/llama.cpp","MIT","c++","56.1%","132k","today","this-week",no,no
+"ggml-org/whisper.cpp","MIT","c++","52.4%","54k","today","this-week",no,no
+"ghdl/ghdl","GPL-2.0","vhdl","54.7%","2.9k","yesterday","this-week",yes,no
+"gitbrent/PptxGenJS","MIT","typescript","96.6%","6.3k","june 2025","2025",no,no
+"github/codeql","MIT","codeql","29.3%","10k","today","this-week",no,no
+"gnu-mirror-unofficial/pspp","GPL-3.0","c","91.1%","0","april 2022","2023-or-older",yes,no
+"gnuhealth/gnuhealth","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"go-vikunja/vikunja","AGPL-3.0","go","65.3%","5.8k","today","this-week",yes,no
+"go-gitea/gitea","MIT","go","83.1%","59k","today","this-week",no,no
+"gitleaks/gitleaks","MIT","go","83.0%","30k","july","this-year",no,no
+"gnu-octave/octave","GPL-3.0","c++","62.7%","667","october","this-year",yes,no
+"gocolly/colly","Apache-2.0","go","99.4%","26k","last friday","this-week",no,no
+"google-deepmind/mujoco","Apache-2.0","c++","44.8%","16k","today","this-week",no,no
+"google/atheris","Apache-2.0","python","60.0%","1.7k","june","this-year",no,no
+"google/blockly","Apache-2.0","typescript","43.6%","14k","last friday","this-week",no,no
+"google/earthengine-community","Apache-2.0","jupyter notebook","93.6%","827","september","this-year",no,no
+"godotengine/godot","MIT","c++","86.8%","119k","last friday","this-week",no,no
+"goauthentik/authentik","not identifiable by github","python","55.7%","26k","today","this-week",no,yes
+"google/or-tools","Apache-2.0","c++","79.2%","14k","september","this-year",no,no
+"gohugoio/hugo","Apache-2.0","go","93.9%","90k","last saturday","this-week",no,no
+"gotson/komga","MIT","kotlin","42.4%","6.8k","last wednesday","this-week",no,no
+"google-ai-edge/mediapipe","Apache-2.0","c++","62.6%","37k","last friday","this-week",no,no
+"grafana/grafana","AGPL-3.0","typescript","47.6%","77k","today","this-week",yes,no
+"google-deepmind/gemma","Apache-2.0","python","68.3%","5.8k","last thursday","this-week",no,no
+"google/nsjail","Apache-2.0","c++","90.4%","4.2k","october","this-year",no,no
+"grafana/mimir","AGPL-3.0","go","92.9%","5.3k","today","this-week",yes,no
+"graphhopper/graphhopper","Apache-2.0","java","97.8%","6.7k","today","this-week",no,no
+"google/gvisor","Apache-2.0","go","76.0%","20k","last saturday","this-week",no,no
+"gridlab-d/gridlab-d","not identifiable by github","c++","53.3%","219","may 2025","2025",no,yes
+"google/oss-fuzz","Apache-2.0","shell","25.3%","13k","today","this-week",no,no
+"google-deepmind/graphcast","Apache-2.0","python","100.0%","7.7k","september","this-year",no,no
+"google/osv-scanner","Apache-2.0","go","88.3%","11k","october","this-year",no,no
+"google/sentencepiece","Apache-2.0","c++","96.3%","12k","today","this-week",no,no
+"guardian/verify","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"grafana/k6","AGPL-3.0","go","81.6%","32k","today","this-week",yes,no
+"grafana/loki","AGPL-3.0","go","97.5%","29k","today","this-week",yes,no
+"guoyww/AnimateDiff","Apache-2.0","python","100.0%","12k","july 2024","2024",no,no
+"haotian-liu/LLaVA","Apache-2.0","python","85.7%","25k","may 2024","2024",no,no
+"h5p/h5p-php-library","GPL-3.0","php","41.2%","151","august","this-year",yes,no
+"grafana/tempo","AGPL-3.0","go","96.2%","5.5k","today","this-week",yes,no
+"hcoles/pitest","Apache-2.0","java","99.1%","1.9k","last wednesday","this-week",no,no
+"grocy/grocy","MIT","blade","34.5%","9.6k","september","this-year",no,no
+"gromacs/gromacs","LGPL-2.1","c++","89.8%","971","today","this-week",yes,no
+"growthbook/growthbook","not identifiable by github","typescript","97.6%","8.5k","today","this-week",no,yes
+"guidance-ai/guidance","MIT","jupyter notebook","94.1%","22k","may","this-year",no,no
+"helm/helm","Apache-2.0","go","98.5%","30k","yesterday","this-week",no,no
+"guidance-ai/llguidance","MIT","rust","82.9%","891","last wednesday","this-week",no,no
+"home-assistant/core","Apache-2.0","python","100.0%","92k","today","this-week",no,no
+"hackingmaterials/matminer","not identifiable by github","html","69.6%","622","today","this-week",no,yes
+"hpcaitech/Open-Sora","Apache-2.0","python","100.0%","30k","april","this-year",no,no
+"huggingface/datasets","Apache-2.0","python","100.0%","22k","last friday","this-week",no,no
+"huggingface/datatrove","Apache-2.0","python","97.8%","3.4k","september","this-year",no,no
+"huggingface/diffusers","Apache-2.0","python","100.0%","35k","today","this-week",no,no
+"haraka/Haraka","MIT","javascript","98.3%","5.6k","last saturday","this-week",no,no
+"huggingface/peft","Apache-2.0","python","99.6%","22k","today","this-week",no,no
+"huggingface/smolagents","Apache-2.0","python","100.0%","30k","october","this-year",no,no
+"huggingface/text-generation-inference","Apache-2.0","python","78.7%","11k","march","this-year",no,no
+"huggingface/text-embeddings-inference","Apache-2.0","rust","86.9%","5.1k","last tuesday","this-week",no,no
+"great-expectations/great_expectations","Apache-2.0","python","99.5%","12k","last friday","this-week",no,no
+"hapifhir/hapi-fhir","Apache-2.0","java","99.3%","2.4k","last friday","this-week",no,no
+"hkchengrex/MMAudio","MIT","python","95.3%","2.3k","february","this-year",no,no
+"hexgrad/kokoro","Apache-2.0","javascript","51.5%","9.5k","august 2025","2025",no,no
+"hydrusnetwork/hydrus","not identifiable by github","python","99.6%","3.2k","last wednesday","this-week",no,yes
+"hedgedoc/hedgedoc","AGPL-3.0","typescript","95.8%","7.5k","last tuesday","this-week",yes,no
+"hzwer/ECCV2022-RIFE","MIT","python","96.6%","5.6k","september 2025","2025",no,no
+"huggingface/huggingface_hub","Apache-2.0","python","99.3%","4k","today","this-week",no,no
+"icosa-foundation/open-brush","Apache-2.0","c#","81.3%","1.1k","yesterday","this-week",no,no
+"huggingface/transformers","Apache-2.0","python","99.9%","168k","today","this-week",no,no
+"hiyouga/LLaMA-Factory","Apache-2.0","python","99.6%","76k","october","this-year",no,no
+"influxdata/influxdb","Apache-2.0","rust","96.4%","32k","september","this-year",no,no
+"humhub/humhub","not identifiable by github","php","93.8%","6.8k","today","this-week",no,yes
+"inkscape/inkscape","not specified","language","none","4k","march 2022","2023-or-older",no,yes
+"huggingface/trl","Apache-2.0","python","92.1%","20k","today","this-week",no,no
+"instructure/canvas-lms","AGPL-3.0","ruby","51.9%","6.9k","april","this-year",yes,no
+"idaholab/moose","LGPL-2.1","c++","61.0%","2.4k","today","this-week",yes,no
+"internetarchive/heritrix3","not identifiable by github","java","93.5%","3.3k","last tuesday","this-week",no,yes
+"inveniosoftware/invenio-app-rdm","MIT","javascript","40.0%","183","last thursday","this-week",no,no
+"invoke-ai/InvokeAI","Apache-2.0","typescript","58.1%","29k","today","this-week",no,no
+"immich-app/immich","AGPL-3.0","typescript","53.4%","117k","today","this-week",yes,no
+"igraph/igraph","GPL-2.0","c","84.1%","2k","last thursday","this-week",yes,no
+"isabelle-prover/mirror-isabelle","not identifiable by github","isabelle","71.3%","100","last wednesday","this-week",no,yes
+"inasafe/inasafe","GPL-3.0","python","85.3%","284","may 2025","2025",yes,no
+"jackaudio/jack2","GPL-2.0","c++","53.7%","2.5k","january","this-year",yes,no
+"indico/indico","MIT","python","56.1%","2.1k","today","this-week",no,no
+"inkle/ink","MIT","c#","98.9%","5k","may","this-year",no,no
+"jamovi/jamovi","not identifiable by github","typescript","57.8%","791","last thursday","this-week",no,yes
+"jaegertracing/jaeger","Apache-2.0","go","91.5%","23k","today","this-week",no,no
+"jasp-stats/jasp-desktop","AGPL-3.0","c++","68.0%","1k","last saturday","this-week",yes,no
+"inspec/inspec","not identifiable by github","ruby","96.7%","3.1k","last tuesday","this-week",no,yes
+"jax-ml/jax","Apache-2.0","python","87.8%","36k","today","this-week",no,no
+"jenkinsci/jenkins","MIT","java","87.1%","27k","today","this-week",no,no
+"invoice-x/invoice2data","MIT","python","99.8%","2.2k","yesterday","this-week",no,no
+"ioBroker/ioBroker","MIT","shell","79.1%","1.4k","last friday","this-week",no,no
+"jgm/pandoc","GPL-2.0","haskell","81.9%","47k","today","this-week",yes,no
+"jgraph/drawio","Apache-2.0","javascript","98.5%","8.9k","yesterday","this-week",no,no
+"iovisor/bcc","Apache-2.0","c","88.1%","23k","september","this-year",no,no
+"jackyzha0/quartz","MIT","typescript","72.8%","13k","september","this-year",no,no
+"isl-org/Open3D","not identifiable by github","c++","82.5%","14k","september","this-year",no,yes
+"jina-ai/reader","Apache-2.0","typescript","97.7%","12k","may","this-year",no,no
+"jlowin/fastmcp","Apache-2.0","python","99.7%","28k","yesterday","this-week",no,no
+"joomla/joomla-cms","GPL-2.0","php","88.7%","5.1k","last saturday","this-week",yes,no
+"jsvine/pdfplumber","MIT","python","99.7%","11k","june","this-year",no,no
+"jeffshee/scoreboard","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"jellyfin/jellyfin","GPL-2.0","c#","99.1%","58k","last saturday","this-week",yes,no
+"iterative/dvc","Apache-2.0","python","100.0%","16k","august","this-year",no,no
+"jupyter/notebook","BSD-3-Clause","jupyter notebook","69.4%","13k","today","this-week",no,no
+"jupyterlab/jupyterlab","BSD-3-Clause","typescript","87.8%","15k","last friday","this-week",no,no
+"jestjs/jest","MIT","typescript","80.9%","45k","october","this-year",no,no
+"k3s-io/k3s","Apache-2.0","go","91.1%","34k","today","this-week",no,no
+"jitsi/jitsi-meet","Apache-2.0","typescript","73.8%","30k","yesterday","this-week",no,no
+"jgrapht/jgrapht","EPL-2.0","java","99.8%","2.8k","october","this-year",yes,no
+"jhpyle/docassemble","MIT","javascript","61.5%","992","october","this-year",no,no
+"kata-containers/kata-containers","Apache-2.0","rust","60.9%","9k","today","this-week",no,no
+"keploy/keploy","Apache-2.0","go","99.7%","19k","today","this-week",no,no
+"jump-dev/JuMP.jl","not identifiable by github","julia","100.0%","2.5k","today","this-week",no,yes
+"kestra-io/kestra","Apache-2.0","java","56.8%","30k","today","this-week",no,no
+"juspay/hyperswitch","Apache-2.0","rust","81.7%","45k","today","this-week",no,no
+"keycloak/keycloak","Apache-2.0","java","92.2%","37k","today","this-week",no,no
+"kimai/kimai","AGPL-3.0","php","86.9%","5.1k","today","this-week",yes,no
+"kermitt2/grobid","Apache-2.0","java","59.5%","5.2k","yesterday","this-week",no,no
+"k2-fsa/sherpa-onnx","Apache-2.0","c++","38.0%","15k","last saturday","this-week",no,no
+"kedro-org/kedro","not identifiable by github","python","96.9%","11k","today","this-week",no,yes
+"johannesjo/super-productivity","MIT","typescript","90.7%","23k","today","this-week",no,no
+"kanidm/kanidm","MPL-2.0","rust","72.7%","5.5k","yesterday","this-week",yes,no
+"koreader/koreader","AGPL-3.0","lua","97.0%","30k","today","this-week",yes,no
+"knadh/listmonk","AGPL-3.0","go","50.9%","24k","today","this-week",yes,no
+"kopia/kopia","Apache-2.0","go","97.3%","14k","last friday","this-week",no,no
+"kovidgoyal/calibre","GPL-3.0","python","80.6%","26k","today","this-week",yes,no
+"kahst/BirdNET-Analyzer","MIT","python","99.2%","1.7k","today","this-week",no,no
+"keras-team/keras","Apache-2.0","python","100.0%","64k","today","this-week",no,no
+"lancedb/lancedb","Apache-2.0","rust","42.7%","12k","yesterday","this-week",no,no
+"killbill/killbill","Apache-2.0","java","97.8%","5.8k","october","this-year",no,no
+"klembot/twinejs","GPL-3.0","typescript","95.6%","2.9k","october","this-year",yes,no
+"langgenius/dify","not identifiable by github","python","54.8%","159k","today","this-week",no,yes
+"kobotoolbox/kobocat","BSD-2-Clause","python","56.1%","121","september","this-year",no,no
+"kobotoolbox/kobo","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"laurent22/joplin","not identifiable by github","typescript","76.7%","57k","today","this-week",no,yes
+"lammps/lammps","GPL-2.0","c++","85.2%","3.1k","last thursday","this-week",yes,no
+"lanl-ansi/PowerModels.jl","not identifiable by github","julia","93.4%","486","october","this-year",no,yes
+"lballabio/QuantLib","not identifiable by github","c++","98.4%","7.7k","today","this-week",no,yes
+"languagetool-org/languagetool","LGPL-2.1","java","91.7%","15k","today","this-week",yes,no
+"kyverno/kyverno","Apache-2.0","go","97.1%","8.3k","today","this-week",no,no
+"kserve/kserve","Apache-2.0","go","65.3%","6.1k","today","this-week",no,no
+"kubernetes/kubernetes","Apache-2.0","go","97.8%","128k","today","this-week",no,no
+"langchain-ai/langgraph","MIT","python","99.6%","44k","today","this-week",no,no
+"langfuse/langfuse","not identifiable by github","typescript","96.0%","36k","today","this-week",no,yes
+"leanprover/lean4","Apache-2.0","lean","94.9%","9.6k","today","this-week",no,no
+"learningequality/kolibri","MIT","python","29.5%","1.2k","last saturday","this-week",no,no
+"librosa/librosa","ISC","python","100.0%","8.7k","october","this-year",no,no
+"lbl-srg/modelica-buildings","not specified","modelica","92.2%","357","october","this-year",no,yes
+"lllyasviel/Fooocus","GPL-3.0","python","96.7%","54k","september 2025","2025",yes,no
+"lenskit/lkpy","not identifiable by github","python","89.8%","312","october","this-year",no,yes
+"leanprover-community/mathlib4","Apache-2.0","lean","99.6%","4.3k","today","this-week",no,no
+"ledger/ledger","not identifiable by github","c++","83.7%","6.1k","september","this-year",no,yes
+"lukevella/rallly","AGPL-3.0","typescript","94.6%","5.3k","today","this-week",yes,no
+"love2d/love","not identifiable by github","c++","83.3%","8.8k","september","this-year",no,yes
+"lh3/minimap2","not identifiable by github","c","59.4%","2.3k","may","this-year",no,yes
+"letta-ai/letta","Apache-2.0","language","none","25k","yesterday","this-week",no,no
+"lllyasviel/ControlNet","Apache-2.0","python","100.0%","34k","september 2023","2023-or-older",no,no
+"lightdash/lightdash","not identifiable by github","typescript","97.1%","6.2k","today","this-week",no,yes
+"magento/magento2","OSL-3.0","php","81.3%","12k","last friday","this-week",yes,no
+"logseq/logseq","AGPL-3.0","clojure","71.2%","45k","today","this-week",yes,no
+"llvm/llvm-project","not identifiable by github","llvm","41.1%","41k","today","this-week",no,yes
+"locustio/locust","MIT","python","82.3%","28k","yesterday","this-week",no,no
+"marian-nmt/marian","not identifiable by github","c++","85.2%","1.5k","february 2023","2023-or-older",no,yes
+"makeplane/plane","AGPL-3.0","typescript","67.6%","61k","today","this-week",yes,no
+"luanti-org/luanti","not identifiable by github","c++","80.6%","14k","yesterday","this-week",no,yes
+"lyuwenyu/RT-DETR","Apache-2.0","python","97.3%","5.6k","october","this-year",no,no
+"matomo-org/matomo","GPL-3.0","php","77.6%","22k","today","this-week",yes,no
+"lyst/lightfm","Apache-2.0","python","99.1%","5.1k","april 2023","2023-or-older",no,no
+"m-bain/whisperX","BSD-2-Clause","python","100.0%","25k","yesterday","this-week",no,no
+"mailcow/mailcow-dockerized","GPL-3.0","javascript","33.1%","14k","october","this-year",yes,no
+"mavlink/MAVSDK","BSD-3-Clause","c++","65.3%","953","today","this-week",no,no
+"mealie-recipes/mealie","AGPL-3.0","python","62.4%","14k","today","this-week",yes,no
+"matchms/matchms","Apache-2.0","python","98.3%","276","october","this-year",no,no
+"mediacms-io/mediacms","AGPL-3.0","python","35.0%","5.2k","last wednesday","this-week",yes,no
+"medusajs/medusa","not identifiable by github","typescript","87.6%","37k","today","this-week",no,yes
+"mattermost-community/focalboard","not identifiable by github","typescript","54.0%","27k","june 2025","2025",no,yes
+"mastodon/mastodon","AGPL-3.0","ruby","58.8%","50k","today","this-week",yes,no
+"megvii-research/ECCV2022-RIFE","MIT","python","96.6%","5.6k","september 2025","2025",no,no
+"meilisearch/meilisearch","not identifiable by github","rust","99.9%","60k","last thursday","this-week",no,yes
+"meltano/meltano","MIT","python","99.3%","2.7k","today","this-week",no,no
+"materialsproject/pymatgen","not identifiable by github","python","78.7%","2k","yesterday","this-week",no,yes
+"mem0ai/mem0","Apache-2.0","python","58.3%","67k","last wednesday","this-week",no,no
+"mermaid-js/mermaid","MIT","typescript","52.9%","91k","today","this-week",no,no
+"metabase/metabase","not identifiable by github","clojure","56.9%","50k","today","this-week",no,yes
+"microsoft/DeepSpeed","Apache-2.0","python","81.3%","43k","today","this-week",no,no
+"microsoft/LightGBM","MIT","c++","48.7%","19k","last wednesday","this-week",no,no
+"microsoft/PowerToys","MIT","c","47.3%","139k","today","this-week",no,no
+"microsoft/TRELLIS.2","MIT","python","82.4%","12k","june","this-year",no,no
+"microsoft/agent-framework","MIT","python","59.0%","14k","today","this-week",no,no
+"mautic/mautic","not identifiable by github","php","81.3%","11k","today","this-week",no,yes
+"mattermost/mattermost","not identifiable by github","typescript","51.4%","39k","today","this-week",no,yes
+"mavlink/mavlink","not identifiable by github","python","87.7%","2.5k","october","this-year",no,yes
+"maybe-finance/maybe","AGPL-3.0","ruby","70.2%","54k","july 2025","2025",yes,no
+"microsoft/presidio","MIT","python","99.5%","11k","today","this-week",no,no
+"microsoft/onnxruntime","MIT","c++","82.7%","22k","today","this-week",no,no
+"microsoft/phi-4","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"milvus-io/milvus","Apache-2.0","go","60.0%","46k","today","this-week",no,no
+"microsoft/Florence","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"mesonbuild/meson","Apache-2.0","python","80.4%","6.6k","last tuesday","this-week",no,no
+"misskey-dev/misskey","AGPL-3.0","typescript","67.9%","11k","last saturday","this-week",yes,no
+"mit-han-lab/llm-awq","MIT","python","61.8%","3.7k","july 2025","2025",no,no
+"mittagessen/kraken","Apache-2.0","python","99.6%","1.1k","october","this-year",no,no
+"microsoft/autogen","CC-BY-4.0","python","61.6%","61k","last friday","this-week",no,no
+"ml-explore/mlx","MIT","c++","63.2%","29k","today","this-week",no,no
+"microsoft/playwright","Apache-2.0","typescript","91.9%","98k","today","this-week",no,no
+"mitre/caldera","Apache-2.0","python","53.7%","7.5k","august","this-year",no,no
+"mltframework/shotcut","GPL-3.0","c++","55.8%","15k","yesterday","this-week",yes,no
+"microsoft/aurora","not identifiable by github","python","99.7%","1k","last wednesday","this-week",no,yes
+"mobiusklein/ms_deisotope","Apache-2.0","python","84.0%","43","july 2025","2025",no,no
+"modelcontextprotocol/modelcontextprotocol","not identifiable by github","typescript","84.1%","9.5k","yesterday","this-week",no,yes
+"modelcontextprotocol/registry","not identifiable by github","go","92.8%","7.4k","october","this-year",no,yes
+"microsoft/pyright","not identifiable by github","python","62.1%","16k","last friday","this-week",no,yes
+"moj-analytical-services/splink","MIT","python","54.3%","2.5k","october","this-year",no,no
+"microsoft/unilm","MIT","python","84.0%","22k","september","this-year",no,no
+"moveit/moveit2","BSD-3-Clause","c++","86.0%","2.1k","september","this-year",no,no
+"mordred-descriptor/mordred","BSD-3-Clause","python","98.4%","484","june 2019","2023-or-older",no,no
+"mikedh/trimesh","MIT","python","99.3%","3.7k","october","this-year",no,no
+"mrc-ide/EpiEstim","not specified","r","99.3%","105","july","this-year",no,yes
+"mpmath/mpmath","BSD-3-Clause","python","99.9%","1.2k","today","this-week",no,no
+"minio/minio","AGPL-3.0","go","99.0%","61k","february","this-year",yes,no
+"myshell-ai/MeloTTS","MIT","python","98.0%","7.7k","december 2024","2024",no,no
+"mvdh7/PyCO2SYS","GPL-3.0","python","94.5%","63","may","this-year",yes,no
+"n8n-io/n8n","not identifiable by github","typescript","92.2%","208k","today","this-week",no,yes
+"mlflow/mlflow","Apache-2.0","python","58.5%","28k","today","this-week",no,no
+"napari/napari","BSD-3-Clause","python","99.8%","2.8k","today","this-week",no,no
+"mobile-dev-inc/maestro","Apache-2.0","kotlin","85.4%","16k","last friday","this-week",no,no
+"moodle/moodle","GPL-3.0","php","86.6%","7.5k","last tuesday","this-week",yes,no
+"mozilla/pdf.js","Apache-2.0","javascript","72.1%","54k","today","this-week",no,no
+"naver/splade","not identifiable by github","python","95.2%","1k","may 2024","2024",no,yes
+"nerfstudio-project/nerfstudio","Apache-2.0","python","91.2%","12k","july 2025","2025",no,no
+"mozilla/pontoon","BSD-3-Clause","python","51.3%","1.7k","last saturday","this-week",no,no
+"mkdocs/mkdocs","BSD-2-Clause","python","81.0%","23k","october 2025","2025",no,no
+"myshell-ai/OpenVoice","MIT","python","86.5%","38k","april 2025","2025",no,no
+"nextcloud/server","AGPL-3.0","php","56.9%","37k","today","this-week",yes,no
+"musescore/MuseScore","not identifiable by github","c++","71.2%","15k","last friday","this-week",no,yes
+"navidrome/navidrome","GPL-3.0","go","81.4%","24k","yesterday","this-week",yes,no
+"nextcloud/spreed","AGPL-3.0","javascript","48.4%","2.2k","today","this-week",yes,no
+"nextflow-io/nextflow","Apache-2.0","groovy","84.4%","3.5k","today","this-week",no,no
+"ngspice/ngspice","not identifiable by github","c","98.0%","290","march 2015","2023-or-older",no,yes
+"networkx/networkx","not identifiable by github","python","100.0%","17k","last friday","this-week",no,yes
+"nats-io/nats-server","Apache-2.0","go","99.7%","21k","last thursday","this-week",no,no
+"netbox-community/netbox","Apache-2.0","python","96.7%","22k","today","this-week",no,no
+"netdata/netdata","GPL-3.0","go","47.7%","81k","today","this-week",yes,no
+"netdisco/netdisco","BSD-3-Clause","perl","70.1%","930","today","this-week",no,no
+"neo4j/neo4j-graphrag-python","not identifiable by github","python","100.0%","1.3k","today","this-week",no,yes
+"nlm-pds/rxnorm-api","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"node-red/node-red","Apache-2.0","javascript","99.8%","24k","last friday","this-week",no,no
+"nvaccess/nvda","not identifiable by github","python","89.5%","2.7k","today","this-week",no,yes
+"nlpxucan/WizardLM","not specified","python","100.0%","9.5k","june 2025","2025",no,yes
+"nwchemgit/nwchem","not identifiable by github","fortran","93.2%","628","october","this-year",no,yes
+"nteract/papermill","BSD-3-Clause","python","84.0%","6.5k","march","this-year",no,no
+"nexB/scancode-toolkit","not identifiable by github","python","32.6%","2.6k","last friday","this-week",no,yes
+"obspy/obspy","not identifiable by github","python","74.5%","1.3k","august","this-year",no,yes
+"nsnam/ns-3","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"nltk/nltk","Apache-2.0","python","99.0%","15k","today","this-week",no,no
+"nmap/nmap","not identifiable by github","c","35.8%","14k","last thursday","this-week",no,yes
+"noamgat/lm-format-enforcer","MIT","python","100.0%","2k","april","this-year",no,no
+"nrwl/nx","MIT","typescript","83.2%","29k","today","this-week",no,no
+"ollama/ollama","MIT","go","71.6%","184k","today","this-week",no,no
+"ome/bioformats","GPL-2.0","java","63.8%","433","october","this-year",yes,no
+"o3de/o3de","not identifiable by github","c++","84.2%","9.8k","last saturday","this-week",no,yes
+"obsproject/obs-studio","GPL-2.0","c","51.6%","78k","last friday","this-week",yes,no
+"open-metadata/OpenMetadata","Apache-2.0","typescript","43.8%","16k","today","this-week",no,no
+"online-ml/river","BSD-3-Clause","python","93.0%","6.1k","last friday","this-week",no,no
+"open-mmlab/mmdetection","Apache-2.0","python","99.2%","33k","february 2024","2024",no,no
+"ocrmypdf/OCRmyPDF","MPL-2.0","python","98.5%","35k","october","this-year",yes,no
+"oemof/oemof","MIT","python","93.3%","148","september 2025","2025",no,no
+"open-compass/opencompass","Apache-2.0","python","100.0%","7.5k","last friday","this-week",no,no
+"odoo/odoo","not identifiable by github","python","52.1%","55k","october","this-year",no,yes
+"olive-editor/olive","GPL-3.0","c++","91.8%","9.1k","december 2024","2024",yes,no
+"open-policy-agent/opa","Apache-2.0","go","86.3%","12k","last friday","this-week",no,no
+"open-telemetry/opentelemetry-collector","Apache-2.0","go","94.7%","7.7k","last friday","this-week",no,no
+"omeka/omeka-s","GPL-3.0","php","74.2%","521","last friday","this-week",yes,no
+"openMF/mifos-mobile","MPL-2.0","kotlin","96.7%","363","last thursday","this-week",yes,no
+"openai/gpt-oss","Apache-2.0","python","40.3%","20k","october","this-year",no,no
+"openai/whisper","MIT","python","100.0%","111k","august","this-year",no,no
+"open-contracting/standard","not identifiable by github","python","77.3%","160","last tuesday","this-week",no,yes
+"open-mmlab/mmaction2","Apache-2.0","python","83.7%","5.2k","march","this-year",no,no
+"openbao/openbao","MPL-2.0","go","67.6%","8.5k","today","this-week",yes,no
+"open-mmlab/mmtracking","Apache-2.0","python","99.2%","3.9k","april 2023","2023-or-older",no,no
+"open-mmlab/mmpose","Apache-2.0","python","98.8%","8k","august 2025","2025",no,no
+"open-rmf/rmf","Apache-2.0","python","85.4%","454","august","this-year",no,no
+"open5gs/open5gs","AGPL-3.0","c","97.3%","2.8k","today","this-week",yes,no
+"opendatalab/MinerU","not identifiable by github","python","98.4%","82k","october","this-year",no,yes
+"open62541/open62541","MPL-2.0","c","94.6%","3.3k","today","this-week",yes,no
+"openemr/openemr","GPL-3.0","php","88.6%","5.5k","today","this-week",yes,no
+"openbabel/openbabel","GPL-2.0","c++","65.3%","1.4k","september","this-year",yes,no
+"opencats/OpenCATS","not identifiable by github","php","62.5%","759","last friday","this-week",no,yes
+"openboxes/openboxes","EPL-1.0","groovy","68.7%","915","today","this-week",yes,no
+"openhab/openhab-core","EPL-2.0","java","98.8%","1.2k","yesterday","this-week",yes,no
+"openmaint/openmaint","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"opencost/opencost","Apache-2.0","go","99.9%","6.8k","last thursday","this-week",no,no
+"opencv/opencv","Apache-2.0","c++","86.2%","91k","today","this-week",no,no
+"openocd-org/openocd","not identifiable by github","c","91.5%","2.4k","october","this-year",no,yes
+"opensanctions/opensanctions","MIT","python","84.9%","847","today","this-week",no,no
+"openfga/openfga","Apache-2.0","go","99.8%","6k","last thursday","this-week",no,no
+"openMF/mifosx","not identifiable by github","java","91.4%","222","february 2019","2023-or-older",no,yes
+"opensearch-project/OpenSearch","Apache-2.0","java","96.2%","14k","last saturday","this-week",no,no
+"openfisca/openfisca-core","AGPL-3.0","python","99.0%","246","today","this-week",yes,no
+"openfoodfacts/openfoodfacts-server","AGPL-3.0","html","68.2%","1.2k","today","this-week",yes,no
+"openedx/edx-platform","AGPL-3.0","python","77.9%","8.2k","today","this-week",yes,no
+"openmrs/openmrs-core","not identifiable by github","java","98.6%","1.9k","today","this-week",no,yes
+"openmm/openmm","not specified","c++","72.4%","2k","last friday","this-week",no,yes
+"opentofu/opentofu","MPL-2.0","go","91.2%","31k","today","this-week",yes,no
+"opentripplanner/OpenTripPlanner","not identifiable by github","java","97.6%","2.8k","today","this-week",no,yes
+"openvpms/openvpms","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"opf/openproject","GPL-3.0","ruby","77.9%","16k","today","this-week",yes,no
+"oppia/oppia","Apache-2.0","python","46.4%","6.9k","yesterday","this-week",no,no
+"openscad/openscad","not identifiable by github","c++","65.0%","10k","yesterday","this-week",no,yes
+"optuna/optuna","MIT","python","100.0%","15k","last friday","this-week",no,no
+"orfeotoolbox/OTB","Apache-2.0","c++","85.8%","393","september","this-year",no,no
+"openremote/openremote","not identifiable by github","java","51.9%","1.9k","today","this-week",no,yes
+"openforcefield/openff-toolkit","MIT","python","94.7%","418","last friday","this-week",no,no
+"opensocial/opensocial","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"opentoonz/opentoonz","not identifiable by github","c++","90.4%","7.8k","today","this-week",no,yes
+"openvinotoolkit/openvino","Apache-2.0","c++","87.8%","11k","today","this-week",no,no
+"openstreetmap/openstreetmap-website","GPL-2.0","ruby","78.5%","2.9k","yesterday","this-week",yes,no
+"oracle/opengrok","not identifiable by github","java","60.0%","5k","october","this-year",no,yes
+"pa11y/pa11y","LGPL-3.0","javascript","89.5%","4.6k","last tuesday","this-week",yes,no
+"pandas-dev/pandas","BSD-3-Clause","python","90.7%","50k","yesterday","this-week",no,no
+"pact-foundation/pact","MIT","ruby","99.4%","2.2k","last wednesday","this-week",no,no
+"pencil2d/pencil2d","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"orthanc-mirrors/orthanc","GPL-3.0","c++","80.7%","0","october","this-year",yes,no
+"oss-review-toolkit/ort","Apache-2.0","kotlin","81.3%","2.1k","today","this-week",no,no
+"ossf/scorecard","Apache-2.0","go","99.2%","5.8k","yesterday","this-week",no,no
+"pgvector/pgvector","not identifiable by github","c","77.1%","23k","october","this-year",no,yes
+"petsc/petsc","not identifiable by github","c","78.9%","542","today","this-week",no,yes
+"phonopy/phonopy","BSD-3-Clause","python","94.1%","503","last friday","this-week",no,no
+"photoprism/photoprism","not identifiable by github","go","80.4%","40k","today","this-week",no,yes
+"ourresearch/openalex","not specified","language","none","60","february 2023","2023-or-older",no,yes
+"phaserjs/phaser","MIT","javascript","99.0%","41k","august","this-year",no,no
+"pimcore/pimcore","not identifiable by github","php","99.9%","3.9k","today","this-week",no,yes
+"plandex-ai/plandex","MIT","go","93.4%","16k","october 2025","2025",no,no
+"outline/outline","not identifiable by github","typescript","98.3%","41k","today","this-week",no,yes
+"pangeo-data/pangeo","not specified","jupyter notebook","98.1%","719","july 2024","2024",no,yes
+"plausible/analytics","AGPL-3.0","elixir","80.0%","30k","today","this-week",yes,no
+"pixelfed/pixelfed","AGPL-3.0","php","69.4%","7.1k","today","this-week",yes,no
+"platformio/platformio-core","Apache-2.0","python","96.5%","9.5k","last friday","this-week",no,no
+"plemeri/InSPyReNet","MIT","python","99.2%","790","may 2025","2025",no,no
+"paperless-ngx/paperless-ngx","GPL-3.0","python","63.5%","47k","today","this-week",yes,no
+"postgres/postgres","not identifiable by github","c","82.7%","22k","today","this-week",no,yes
+"postgis/postgis","GPL-2.0","plpgsql","48.5%","2.2k","october","this-year",yes,no
+"praat/praat","not specified","c","66.6%","2k","last tuesday","this-week",no,yes
+"osquery/osquery","not identifiable by github","c++","67.8%","24k","last thursday","this-week",no,yes
+"penpot/penpot","MPL-2.0","clojure","73.1%","61k","today","this-week",yes,no
+"privacyguides/privacyguides.org","CC-BY-SA-4.0","markdown","95.8%","4.3k","yesterday","this-week",no,no
+"pentacent/keila","AGPL-3.0","elixir","70.8%","2.2k","october","this-year",yes,no
+"projectnessie/nessie","Apache-2.0","java","97.4%","1.5k","today","this-week",no,no
+"pretix/pretix","not identifiable by github","python","78.9%","2.5k","today","this-week",no,yes
+"prusa3d/PrusaSlicer","AGPL-3.0","c++","51.5%","9.4k","september","this-year",yes,no
+"pola-rs/polars","MIT","rust","62.2%","40k","today","this-week",no,no
+"plantuml/plantuml","LGPL-3.0","java","97.7%","13k","yesterday","this-week",yes,no
+"postalserver/postal","MIT","ruby","76.8%","17k","october","this-year",no,no
+"py-why/EconML","not identifiable by github","jupyter notebook","81.1%","4.8k","september","this-year",no,yes
+"pretalx/pretalx","not identifiable by github","python","82.6%","951","today","this-week",no,yes
+"pyannote/pyannote-audio","MIT","jupyter notebook","65.2%","11k","june","this-year",no,no
+"pydantic/pydantic-ai","MIT","python","98.8%","21k","today","this-week",no,no
+"pymupdf/PyMuPDF","AGPL-3.0","python","67.0%","11k","today","this-week",yes,no
+"pmd/pmd","not identifiable by github","java","77.9%","5.5k","yesterday","this-week",no,yes
+"prometheus/prometheus","Apache-2.0","go","88.3%","67k","today","this-week",no,no
+"promptfoo/promptfoo","MIT","typescript","97.9%","26k","today","this-week",no,no
+"py-why/dowhy","MIT","python","100.0%","8.4k","yesterday","this-week",no,no
+"python-control/python-control","BSD-3-Clause","python","100.0%","2.1k","september","this-year",no,no
+"psi4/psi4","LGPL-3.0","c++","66.6%","1.2k","yesterday","this-week",yes,no
+"pulumi/pulumi","Apache-2.0","go","84.5%","26k","today","this-week",no,no
+"pydata/xarray","Apache-2.0","python","99.8%","4.2k","today","this-week",no,no
+"python/mypy","not identifiable by github","python","87.7%","21k","today","this-week",no,yes
+"pyinat/pyinaturalist","MIT","python","99.9%","187","september","this-year",no,no
+"qelectrotech/qelectrotech","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"pytorch/pytorch","not identifiable by github","python","66.6%","105k","last friday","this-week",no,yes
+"qdrant/qdrant","Apache-2.0","rust","89.3%","35k","october","this-year",no,no
+"pymc-devs/pymc","not identifiable by github","python","99.8%","9.8k","today","this-week",no,yes
+"pyrocko/pyrocko","GPL-3.0","python","90.1%","251","june","this-year",yes,no
+"pytest-dev/pytest","MIT","python","100.0%","15k","today","this-week",no,no
+"pypa/pip-audit","Apache-2.0","python","99.2%","1.4k","september","this-year",no,no
+"qgis/QGIS","GPL-2.0","c++","79.3%","15k","today","this-week",yes,no
+"pytorch/executorch","not identifiable by github","python","54.0%","5.1k","today","this-week",no,yes
+"quantumlib/Stim","Apache-2.0","c++","40.8%","834","last friday","this-week",no,no
+"python-openxml/python-docx","MIT","python","93.0%","5.7k","june 2025","2025",no,no
+"quickwit-oss/tantivy","MIT","rust","100.0%","16k","last saturday","this-week",no,no
+"qupath/qupath","GPL-3.0","java","99.5%","1.5k","yesterday","this-week",yes,no
+"quarto-dev/quarto-cli","not identifiable by github","javascript","45.0%","6.1k","today","this-week",no,yes
+"qdrant/fastembed","Apache-2.0","python","89.5%","3.2k","last thursday","this-week",no,no
+"qutip/qutip","BSD-3-Clause","python","80.3%","2.1k","today","this-week",no,no
+"radareorg/radare2","not identifiable by github","c","96.5%","25k","today","this-week",no,yes
+"ray-project/ray","Apache-2.0","python","77.9%","44k","today","this-week",no,no
+"rasterio/rasterio","not identifiable by github","python","73.9%","2.6k","last tuesday","this-week",no,yes
+"reanahub/reana","MIT","python","89.7%","154","october","this-year",no,no
+"recommenders-team/recommenders","MIT","python","98.0%","22k","september","this-year",no,no
+"qemu/qemu","not identifiable by github","c","80.9%","14k","today","this-week",no,yes
+"quantumlib/Cirq","Apache-2.0","python","92.8%","5.1k","last saturday","this-week",no,no
+"remram44/taguette","BSD-3-Clause","python","74.3%","90","september","this-year",no,no
+"pytorch/torchtune","BSD-3-Clause","python","99.8%","5.8k","april","this-year",no,no
+"rdkit/rdkit","BSD-3-Clause","html","59.4%","3.6k","last friday","this-week",no,no
+"rabbitmq/rabbitmq-server","not identifiable by github","javascript","63.7%","14k","today","this-week",no,yes
+"renpy/renpy","not specified","ren'py","55.0%","6.9k","today","this-week",no,yes
+"recogito/recogito","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"quantumlib/OpenFermion","Apache-2.0","python","96.9%","1.7k","october","this-year",no,no
+"resourcespace/resourcespace","not identifiable by github","php","68.5%","84","last saturday","this-week",no,yes
+"rhasspy/piper","MIT","c++","72.8%","11k","august 2025","2025",no,no
+"rclone/rclone","MIT","go","98.2%","60k","last friday","this-week",no,no
+"rizinorg/cutter","GPL-3.0","c++","94.0%","20k","september","this-year",yes,no
+"redcanaryco/atomic-red-team","MIT","c","43.7%","13k","september","this-year",no,no
+"rocq-prover/rocq","LGPL-2.1","ocaml","73.2%","5.6k","today","this-week",yes,no
+"renode/renode","not identifiable by github","robotframework","50.4%","3k","last friday","this-week",no,yes
+"renovatebot/renovate","AGPL-3.0","typescript","98.6%","23k","today","this-week",yes,no
+"robotframework/robotframework","Apache-2.0","python","62.9%","12k","october","this-year",no,no
+"reportportal/reportportal","Apache-2.0","makefile","100.0%","2k","last tuesday","this-week",no,no
+"roboflow/supervision","MIT","python","100.0%","51k","today","this-week",no,no
+"ros2/ros2","not specified","language","none","6.2k","october","this-year",no,yes
+"rspamd/rspamd","not identifiable by github","c","44.3%","2.6k","yesterday","this-week",no,yes
+"reviewdog/reviewdog","MIT","go","96.1%","9.7k","today","this-week",no,no
+"restic/restic","BSD-2-Clause","go","99.7%","37k","yesterday","this-week",no,no
+"sabre-io/Baikal","GPL-3.0","php","87.2%","3.3k","yesterday","this-week",yes,no
+"richardlehane/siegfried","Apache-2.0","go","97.7%","273","september","this-year",no,no
+"rizinorg/rizin","LGPL-3.0","c","97.1%","4k","today","this-week",yes,no
+"salesagility/SuiteCRM","AGPL-3.0","php","71.7%","5.8k","september","this-year",yes,no
+"ros-navigation/navigation2","not identifiable by github","c++","85.1%","4.8k","last friday","this-week",no,yes
+"roundcube/roundcubemail","GPL-3.0","php","90.5%","7.2k","today","this-week",yes,no
+"satijalab/seurat","not identifiable by github","r","90.1%","2.8k","october","this-year",no,yes
+"run-llama/llama_index","MIT","python","72.6%","53k","last wednesday","this-week",no,no
+"schemathesis/schemathesis","MIT","python","92.9%","3.7k","today","this-week",no,no
+"samtools/bcftools","not identifiable by github","c","86.5%","901","today","this-week",no,yes
+"sagemath/sage","not identifiable by github","python","72.1%","2.6k","yesterday","this-week",no,yes
+"sahana/eden","MIT","python","47.8%","34","september","this-year",no,no
+"scverse/scanpy","BSD-3-Clause","python","99.8%","2.6k","last thursday","this-week",no,no
+"rundeck/rundeck","Apache-2.0","groovy","58.3%","6.3k","last friday","this-week",no,no
+"saleor/saleor","BSD-3-Clause","python","99.3%","23k","today","this-week",no,no
+"samtools/samtools","not identifiable by github","c","74.3%","2k","last thursday","this-week",no,yes
+"scanny/python-pptx","MIT","python","94.4%","3.6k","august 2024","2024",no,no
+"scribusproject/scribus","not identifiable by github","c++","87.9%","640","yesterday","this-week",no,yes
+"shapely/shapely","BSD-3-Clause","python","71.8%","4.5k","last friday","this-week",no,no
+"scipy/scipy","BSD-3-Clause","python","64.7%","15k","yesterday","this-week",no,no
+"scikit-learn/scikit-learn","BSD-3-Clause","python","92.4%","68k","today","this-week",no,no
+"scrapy/scrapy","BSD-3-Clause","python","98.0%","65k","today","this-week",no,no
+"scverse/scvi-tools","BSD-3-Clause","python","100.0%","1.7k","last wednesday","this-week",no,no
+"scverse/spatialdata","BSD-3-Clause","python","99.9%","402","last saturday","this-week",no,no
+"searxng/searxng","AGPL-3.0","python","81.9%","39k","october","this-year",yes,no
+"simonmichael/hledger","GPL-3.0","haskell","70.5%","4.8k","today","this-week",yes,no
+"silisoftware/valentina","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"sgl-project/sglang","Apache-2.0","python","83.4%","37k","today","this-week",no,no
+"sleuthkit/sleuthkit","not specified","c","58.1%","3.2k","last wednesday","this-week",no,yes
+"semgrep/semgrep","LGPL-2.1","c","94.0%","17k","last wednesday","this-week",yes,no
+"silverbulletmd/silverbullet","MIT","typescript","60.6%","6.3k","today","this-week",no,no
+"smallstep/certificates","Apache-2.0","go","99.6%","9k","last wednesday","this-week",no,no
+"skyfielders/python-skyfield","MIT","python","97.3%","1.8k","september","this-year",no,no
+"snakemake/snakemake","MIT","python","93.5%","2.9k","october","this-year",no,no
+"sentinel-hub/eo-learn","MIT","python","98.8%","1.3k","september","this-year",no,no
+"sodadata/soda-core","not identifiable by github","python","99.3%","2.4k","today","this-week",no,yes
+"sokrypton/ColabFold","MIT","jupyter notebook","89.3%","3k","last thursday","this-week",no,no
+"sourcegraph/zoekt","Apache-2.0","go","88.8%","2k","last friday","this-week",no,no
+"spotbugs/spotbugs","LGPL-2.1","java","96.2%","4k","yesterday","this-week",yes,no
+"sourcegraph/scip","Apache-2.0","go","85.9%","831","last wednesday","this-week",no,no
+"sqlfluff/sqlfluff","MIT","python","70.6%","10k","today","this-week",no,no
+"srsran/srsRAN_Project","not specified","c++","98.4%","1.1k","november 2021","2023-or-older",no,yes
+"simpeg/simpeg","MIT","python","99.9%","689","last friday","this-week",no,no
+"sigstore/cosign","Apache-2.0","go","98.8%","6.4k","last friday","this-week",no,no
+"stanford-futuredata/ColBERT","MIT","python","93.2%","3.9k","october 2025","2025",no,no
+"sktime/sktime","BSD-3-Clause","python","99.8%","10k","today","this-week",no,no
+"sleuthkit/autopsy","not specified","java","91.3%","3.4k","may","this-year",no,yes
+"stanfordnlp/stanza","not identifiable by github","python","98.6%","7.9k","october","this-year",no,yes
+"statsmodels/statsmodels","BSD-3-Clause","python","96.1%","12k","today","this-week",no,no
+"storybookjs/storybook","MIT","typescript","87.2%","91k","today","this-week",no,no
+"solvespace/solvespace","GPL-3.0","c++","84.7%","4.2k","last saturday","this-week",yes,no
+"snakers4/silero-vad","MIT","python","93.0%","10k","september","this-year",no,no
+"stryker-mutator/stryker-js","Apache-2.0","typescript","84.8%","3.2k","october","this-year",no,no
+"sqlite/sqlite","not identifiable by github","c","81.2%","11k","today","this-week",no,yes
+"sunpy/sunpy","BSD-2-Clause","python","96.5%","1k","last thursday","this-week",no,no
+"supertuxkart/stk-code","not identifiable by github","c++","53.8%","5.4k","last saturday","this-week",no,yes
+"stakira/OpenUtau","MIT","c#","98.9%","4.4k","today","this-week",no,no
+"stan-dev/stan","BSD-3-Clause","c++","98.6%","2.8k","last friday","this-week",no,no
+"syncthing/syncthing","MPL-2.0","go","84.6%","90k","today","this-week",yes,no
+"taskforcesh/bullmq","MIT","typescript","36.4%","9.5k","today","this-week",no,no
+"stanfordnlp/dspy","MIT","python","99.7%","39k","today","this-week",no,no
+"tatuylonen/wiktextract","not identifiable by github","python","100.0%","1.3k","today","this-week",no,yes
+"temporalio/temporal","MIT","go","99.5%","24k","yesterday","this-week",no,no
+"tencent-ailab/IP-Adapter","Apache-2.0","jupyter notebook","99.7%","6.7k","june 2024","2024",no,no
+"stanford-crfm/helm","Apache-2.0","python","95.3%","3k","june","this-year",no,no
+"tesseract-ocr/tesseract","Apache-2.0","c++","95.5%","77k","today","this-week",no,no
+"thiagoralves/OpenPLC_v3","GPL-3.0","c++","75.4%","1.6k","april","this-year",yes,no
+"strapi/strapi","not identifiable by github","typescript","88.8%","73k","today","this-week",no,yes
+"thingsboard/thingsboard","not identifiable by github","java","63.6%","23k","today","this-week",no,yes
+"tokens-studio/figma","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"timescale/timescaledb","not identifiable by github","c","64.7%","24k","today","this-week",no,yes
+"thliebig/openEMS","GPL-3.0","c++","39.6%","762","yesterday","this-week",yes,no
+"swagger-api/swagger-codegen","Apache-2.0","mustache","53.0%","18k","august","this-year",no,no
+"sympy/sympy","not identifiable by github","python","98.6%","15k","yesterday","this-week",no,yes
+"stride3d/stride","MIT","c#","99.0%","7.9k","last saturday","this-week",no,no
+"topoteretes/cognee","Apache-2.0","python","88.2%","33k","last friday","this-week",no,no
+"traccar/traccar","Apache-2.0","java","99.3%","7.9k","today","this-week",no,no
+"torvalds/linux","not identifiable by github","c","97.8%","253k","yesterday","this-week",no,yes
+"tree-sitter/tree-sitter","MIT","rust","65.9%","27k","last thursday","this-week",no,no
+"tropy/tropy","not identifiable by github","javascript","87.4%","1.2k","today","this-week",no,yes
+"truera/trulens","MIT","python","90.3%","3.6k","today","this-week",no,no
+"thunderbird/thunderbird","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"tektoncd/pipeline","Apache-2.0","go","99.2%","9.1k","today","this-week",no,no
+"toeverything/AFFiNE","not identifiable by github","typescript","82.2%","74k","october","this-year",no,yes
+"tensorflow/tensorflow","Apache-2.0","c++","55.4%","201k","today","this-week",no,no
+"taigaio/taiga","MPL-2.0","python","30.9%","575","december 2023","2023-or-older",yes,no
+"torchgeo/torchgeo","MIT","python","100.0%","4.2k","yesterday","this-week",no,no
+"ufal/udpipe","MPL-2.0","c++","77.4%","424","june","this-year",yes,no
+"trufflesecurity/trufflehog","AGPL-3.0","go","99.7%","29k","last saturday","this-week",yes,no
+"umami-software/umami","MIT","typescript","98.8%","39k","september","this-year",no,no
+"unclecode/crawl4ai","Apache-2.0","python","98.8%","86k","last thursday","this-week",no,no
+"trinodb/trino","Apache-2.0","java","99.1%","13k","today","this-week",no,no
+"unionai-oss/pandera","MIT","python","99.9%","4.5k","today","this-week",no,no
+"universal-ctags/ctags","GPL-2.0","c","62.0%","7.3k","october","this-year",yes,no
+"unit8co/darts","Apache-2.0","python","100.0%","9.6k","last friday","this-week",no,no
+"tryton/tryton","not specified","python","88.3%","233","october","this-year",no,yes
+"unslothai/unsloth","Apache-2.0","python","72.0%","78k","today","this-week",no,no
+"typst/typst","Apache-2.0","rust","84.6%","57k","today","this-week",no,no
+"twentyhq/twenty","not identifiable by github","typescript","83.6%","59k","today","this-week",no,yes
+"valhalla/valhalla","not identifiable by github","c++","94.2%","6.3k","today","this-week",no,yes
+"uber/causalml","not identifiable by github","python","78.8%","6k","october","this-year",no,yes
+"typesense/typesense","GPL-3.0","c++","88.5%","27k","today","this-week",yes,no
+"veraPDF/veraPDF-library","GPL-3.0","java","88.3%","346","last friday","this-week",yes,no
+"ultralytics/ultralytics","AGPL-3.0","python","99.7%","63k","today","this-week",yes,no
+"verilator/verilator","not identifiable by github","systemverilog","53.4%","4k","today","this-week",no,yes
+"vercel-labs/agent-browser","Apache-2.0","rust","89.4%","44k","last thursday","this-week",no,no
+"vercel/turborepo","MIT","rust","81.7%","31k","today","this-week",no,no
+"vespa-engine/vespa","Apache-2.0","java","51.9%","7.1k","today","this-week",no,no
+"vitest-dev/vitest","MIT","typescript","95.9%","17k","today","this-week",no,no
+"unicode-org/icu","not identifiable by github","c++","43.8%","3.6k","last thursday","this-week",no,yes
+"vkbo/novelWriter","GPL-3.0","python","98.4%","3.2k","today","this-week",yes,no
+"vllm-project/vllm","Apache-2.0","python","85.4%","94k","today","this-week",no,no
+"voxel51/fiftyone","Apache-2.0","typescript","64.1%","11k","last saturday","this-week",no,no
+"volatilityfoundation/volatility3","not identifiable by github","python","99.9%","4.5k","october","this-year",no,yes
+"usebruno/bruno","MIT","javascript","71.1%","48k","today","this-week",no,no
+"vaexio/vaex","MIT","python","60.8%","8.5k","february","this-year",no,no
+"wazuh/wazuh","not identifiable by github","c++","46.7%","17k","today","this-week",no,yes
+"usememos/memos","MIT","go","52.8%","64k","today","this-week",no,no
+"vpython/vpython","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"vega/vega-lite","BSD-3-Clause","typescript","97.6%","5.5k","october","this-year",no,no
+"wekan/wekan","MIT","javascript","86.5%","21k","yesterday","this-week",no,no
+"why3/why3","repo not found","language","repo not found","repo not found","repo not found","gone",no,no
+"wireshark/wireshark","GPL-2.0","c","93.9%","10k","today","this-week",yes,no
+"woodpecker-ci/woodpecker","Apache-2.0","go","87.7%","8k","today","this-week",no,no
+"vuejs/vitepress","MIT","typescript","71.2%","18k","yesterday","this-week",no,no
+"wasserth/TotalSegmentator","Apache-2.0","python","96.4%","3.1k","last wednesday","this-week",no,no
+"wrf-model/WRF","not identifiable by github","fortran","67.2%","1.8k","june","this-year",no,yes
+"yzhao062/pyod","BSD-2-Clause","python","93.5%","10k","october","this-year",no,no
+"vendure-ecommerce/vendure","not identifiable by github","typescript","95.2%","8.5k","today","this-week",no,yes
+"zabbix/zabbix","AGPL-3.0","go template","72.4%","6.5k","today","this-week",yes,no
+"zammad/zammad","AGPL-3.0","ruby","51.3%","6k","last friday","this-week",yes,no
+"zephyrproject-rtos/zephyr","Apache-2.0","c","90.2%","17k","july","this-year",no,no
+"zeek/zeek","not identifiable by github","c++","56.9%","8.1k","last friday","this-week",no,yes
+"wch/r-source","GPL-2.0","r","38.6%","1.3k","today","this-week",yes,no
+"wallabag/wallabag","MIT","php","83.6%","13k","today","this-week",no,no
+"weaviate/weaviate","not identifiable by github","go","96.9%","17k","last friday","this-week",no,yes
+"wikimedia/wikidata-query-rdf","not specified","java","68.8%","157","august","this-year",no,yes
+"xinntao/Real-ESRGAN","BSD-3-Clause","python","100.0%","37k","april 2024","2024",no,no
+"withastro/astro","not identifiable by github","typescript","94.7%","63k","today","this-week",no,yes
+"zaproxy/zaproxy","Apache-2.0","java","73.3%","16k","last thursday","this-week",no,no
+"zotero/zotero","not identifiable by github","javascript","60.4%","16k","last wednesday","this-week",no,yes
+"zitadel/zitadel","AGPL-3.0","go","74.4%","15k","today","this-week",yes,no
+"zulip/zulip","Apache-2.0","python","56.6%","26k","last wednesday","this-week",no,no
