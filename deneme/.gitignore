@@ -1,0 +1,66 @@
+# Ignore rules at the git toplevel.
+#
+# The repository already carries .gitignore files under Aurora-Motor-Engine/ and
+# hybrid-agent-fabric/, but nothing at the top level — which is what the release
+# hygiene ratchet (T1) checks, and what `git add .` from a fresh clone consults
+# first. Without it, the first build run from the repository root was one
+# `git add .` away from committing node_modules and dist into history.
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Coverage and tooling caches
+coverage/
+.cache/
+.parcel-cache/
+.vite/
+.turbo/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor and OS cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+
+# Runtime state that used to be tracked and no longer is (116 files removed
+# from the index).
+#
+#   .config/Electron/          114 committed files of Chromium cache, code cache
+#                              and Crashpad dumps — per-machine state that can
+#                              never merge cleanly.
+#   .sudo_as_admin_successful  a zero-byte sandbox marker.
+#   /package-lock.json         a stray "name": "user" lockfile with an empty
+#                              packages map. The real workspace root is
+#                              Aurora-Motor-Engine/hybrid-agent-fabric, which
+#                              carries its own lockfile.
+#
+# None of the three is referenced by any code, test, script or CI workflow.
+# They remain in git history; removing them from history needs a rewrite, which
+# is deliberately not done here.
+.config/Electron/
+.sudo_as_admin_successful
+/package-lock.json
+
+# NOT ignored: `uploads/` holds AURORA_NIHAI_MASTER_YOL_HARITASI.md, a real
+# 39 KB design document. Runtime uploads go to `.haf/uploads/` instead
+# (main.ts:2057), so the tracked directory is documentation, not staging.

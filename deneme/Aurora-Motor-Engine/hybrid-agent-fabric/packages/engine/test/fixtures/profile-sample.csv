@@ -1,0 +1,121 @@
+bolge,urun,adet,fiyat,not
+Marmara,Kalem,1,0.5,
+Ege,Silgi,8,13.5,normal
+Ic Anadolu,Silgi,15,26.5,acil
+Marmara,Defter,22,39.5,normal
+Ege,Defter,29,52.5,acil
+Ic Anadolu,Kalem,36,65.5,
+Marmara,Kalem,3,78.5,acil
+Ege,Silgi,10,91.5,normal
+Ic Anadolu,Silgi,17,4.5,acil
+Marmara,Defter,24,17.5,normal
+Ege,Defter,31,30.5,
+Ic Anadolu,Kalem,38,43.5,normal
+Marmara,Kalem,5,56.5,acil
+Ege,Silgi,12,69.5,normal
+Ic Anadolu,Silgi,19,82.5,acil
+Marmara,Defter,26,95.5,
+Ege,Defter,33,8.5,acil
+Ic Anadolu,Kalem,40,21.5,normal
+Marmara,Kalem,7,34.5,acil
+Ege,Silgi,14,47.5,normal
+Ic Anadolu,Silgi,21,60.5,
+Marmara,Defter,28,73.5,normal
+Ege,Defter,35,86.5,acil
+Ic Anadolu,Kalem,2,99.5,normal
+Marmara,Kalem,9,12.5,acil
+Ege,Silgi,16,25.5,
+Ic Anadolu,Silgi,23,38.5,acil
+Marmara,Defter,30,51.5,normal
+Ege,Defter,37,64.5,acil
+Ic Anadolu,Kalem,4,77.5,normal
+Marmara,Kalem,11,90.5,
+Ege,Silgi,18,3.5,normal
+Ic Anadolu,Silgi,25,16.5,acil
+Marmara,Defter,32,29.5,normal
+Ege,Defter,39,42.5,acil
+Ic Anadolu,Kalem,6,55.5,
+Marmara,Kalem,13,68.5,acil
+Ege,Silgi,20,81.5,normal
+Ic Anadolu,Silgi,27,94.5,acil
+Marmara,Defter,34,7.5,normal
+Ege,Defter,1,20.5,
+Ic Anadolu,Kalem,8,33.5,normal
+Marmara,Kalem,15,46.5,acil
+Ege,Silgi,22,59.5,normal
+Ic Anadolu,Silgi,29,72.5,acil
+Marmara,Defter,36,85.5,
+Ege,Defter,3,98.5,acil
+Ic Anadolu,Kalem,10,11.5,normal
+Marmara,Kalem,17,24.5,acil
+Ege,Silgi,24,37.5,normal
+Ic Anadolu,Silgi,31,50.5,
+Marmara,Defter,38,63.5,normal
+Ege,Defter,5,76.5,acil
+Ic Anadolu,Kalem,12,89.5,normal
+Marmara,Kalem,19,2.5,acil
+Ege,Silgi,26,15.5,
+Ic Anadolu,Silgi,33,28.5,acil
+Marmara,Defter,40,41.5,normal
+Ege,Defter,7,54.5,acil
+Ic Anadolu,Kalem,14,67.5,normal
+Marmara,Kalem,21,80.5,
+Ege,Silgi,28,93.5,normal
+Ic Anadolu,Silgi,35,6.5,acil
+Marmara,Defter,2,19.5,normal
+Ege,Defter,9,32.5,acil
+Ic Anadolu,Kalem,16,45.5,
+Marmara,Kalem,23,58.5,acil
+Ege,Silgi,30,71.5,normal
+Ic Anadolu,Silgi,37,84.5,acil
+Marmara,Defter,4,97.5,normal
+Ege,Defter,11,10.5,
+Ic Anadolu,Kalem,18,23.5,normal
+Marmara,Kalem,25,36.5,acil
+Ege,Silgi,32,49.5,normal
+Ic Anadolu,Silgi,39,62.5,acil
+Marmara,Defter,6,75.5,
+Ege,Defter,13,88.5,acil
+Ic Anadolu,Kalem,20,1.5,normal
+Marmara,Kalem,27,14.5,acil
+Ege,Silgi,34,27.5,normal
+Ic Anadolu,Silgi,1,40.5,
+Marmara,Defter,8,53.5,normal
+Ege,Defter,15,66.5,acil
+Ic Anadolu,Kalem,22,79.5,normal
+Marmara,Kalem,29,92.5,acil
+Ege,Silgi,36,5.5,
+Ic Anadolu,Silgi,3,18.5,acil
+Marmara,Defter,10,31.5,normal
+Ege,Defter,17,44.5,acil
+Ic Anadolu,Kalem,24,57.5,normal
+Marmara,Kalem,31,70.5,
+Ege,Silgi,38,83.5,normal
+Ic Anadolu,Silgi,5,96.5,acil
+Marmara,Defter,12,9.5,normal
+Ege,Defter,19,22.5,acil
+Ic Anadolu,Kalem,26,35.5,
+Marmara,Kalem,33,48.5,acil
+Ege,Silgi,40,61.5,normal
+Ic Anadolu,Silgi,7,74.5,acil
+Marmara,Defter,14,87.5,normal
+Ege,Defter,21,0.5,
+Ic Anadolu,Kalem,28,13.5,normal
+Marmara,Kalem,35,26.5,acil
+Ege,Silgi,2,39.5,normal
+Ic Anadolu,Silgi,9,52.5,acil
+Marmara,Defter,16,65.5,
+Ege,Defter,23,78.5,acil
+Ic Anadolu,Kalem,30,91.5,normal
+Marmara,Kalem,37,4.5,acil
+Ege,Silgi,4,17.5,normal
+Ic Anadolu,Silgi,11,30.5,
+Marmara,Defter,18,43.5,normal
+Ege,Defter,25,56.5,acil
+Ic Anadolu,Kalem,32,69.5,normal
+Marmara,Kalem,39,82.5,acil
+Ege,Silgi,6,95.5,
+Ic Anadolu,Silgi,13,8.5,acil
+Marmara,Defter,20,21.5,normal
+Ege,Defter,27,34.5,acil
+Ic Anadolu,Kalem,34,47.5,normal

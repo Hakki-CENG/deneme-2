@@ -1,0 +1,87 @@
+# Python dependencies for the engine's external workers.
+#
+#     pip install -r external-workers/requirements.txt
+#
+# Or install only what a given capability needs — see the table at the bottom.
+#
+# Versions are lower bounds, not exact pins. Each one is the version that was
+# actually exercised by a test in this repository; nothing here is pinned to a
+# release that was only read about. Bumping past these is fine, and the test suite
+# is what will say whether it still works.
+#
+# None of these pull PyTorch. That is deliberate: several backends the integration
+# plan names (faster-whisper for speech, OpenMM for molecular dynamics) need it, and
+# they were left out rather than half-integrated, because a multi-gigabyte download
+# that fails on a machine without a GPU is worse than an honest "unavailable".
+
+# math.smt.solve — Z3 SMT solver (external-workers/smt_solve.py)
+z3-solver>=5.3.1.0
+
+# math.symbolic — symbolic algebra
+sympy>=1.14.0
+
+# web.render — headless browser rendering
+crawl4ai>=0.9.5
+
+# data.duckdb.query and data.graph.query
+duckdb>=1.5.6
+
+# data.profile
+polars>=2.0.0
+
+# science.sequence.analyse
+biopython>=1.88
+
+# science.molecule.analyse
+rdkit>=2026.9.1
+
+# science.md.simulate — molecular dynamics (external-workers/md_simulate.py). Pulls
+# no PyTorch, and ships a CPU platform, so it runs without a GPU. A GPU platform
+# (CUDA/OpenCL) only exists where the hardware does.
+openmm>=8.6.1
+
+# audio.speak — speech synthesis (external-workers/text_to_speech.py). MIT licensed,
+# ONNX based, no torch. Needs a Piper .onnx voice on disk; the package ships no
+# downloader, so fetch a voice from https://huggingface.co/rhasspy/piper-voices.
+piper-tts>=1.8.0
+
+# audio.transcribe — speech to text (external-workers/audio_transcribe.py).
+# Also needs a Vosk model directory on disk; the capability's error message names
+# the model to unpack.
+vosk>=0.3.45
+
+# retrieval embeddings — the hybrid index's default backend when no OpenAI key is
+# configured. ONNX Runtime based, so it needs no PyTorch and no GPU.
+fastembed>=0.9.0
+
+# eval.inspect.run — evaluation harness
+inspect-ai>=0.3.281
+
+# document.parse needs no pip package: the worker shells out to the tesseract
+# binary directly rather than going through a binding.
+
+# Per-capability subsets, so a deployment can install only what it will use:
+#
+#   capability               pip package      system dependency
+#   ----------------------   --------------   --------------------------------
+#   math.smt.solve           z3-solver        none
+#   math.symbolic            sympy            none
+#   math.lean.check          none             the Lean toolchain (see below)
+#   data.duckdb.query        duckdb           none
+#   data.graph.query         duckdb           none
+#   data.profile             polars           none
+#   document.parse           none             tesseract, poppler-utils
+#   web.render               crawl4ai         a Chromium binary
+#   office.convert           none             libreoffice
+#   audio.speak              piper-tts        a Piper .onnx voice (+ .onnx.json)
+#   audio.transcribe         vosk             a Vosk model directory
+#   science.sequence.analyse biopython        none
+#   science.molecule.analyse rdkit            none
+#   science.md.simulate      openmm           none (GPU optional, for speed)
+#   (hybrid index embeddings) fastembed       none (downloads a model on first use)
+#   eval.inspect.run         inspect-ai       none
+#
+# Lean is not a pip package. `math.lean.check` uses the `lean` binary and installs
+# nothing by itself; see scripts/install-backends.mjs for the toolchain installer
+# (elan), which is opt-in because it writes to $HOME/.elan and downloads a
+# toolchain.
